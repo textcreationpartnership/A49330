@@ -1,0 +1,1781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the life &amp; martyrdom of St. George, the titular patron of England with his conversion of Arabia by killing of a dreadful dragon, and delivering the kings daughter / by Thomas Lowick, Gent.</title>
+            <author>Lowick, Thomas, b. 1582.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49330</idno>
+            <idno type="STC">Wing L3320</idno>
+            <idno type="STC">ESTC R3896</idno>
+            <idno type="EEBO-CITATION">12967279</idno>
+            <idno type="OCLC">ocm 12967279</idno>
+            <idno type="VID">96123</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96123)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 389:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the life &amp; martyrdom of St. George, the titular patron of England with his conversion of Arabia by killing of a dreadful dragon, and delivering the kings daughter / by Thomas Lowick, Gent.</title>
+                  <author>Lowick, Thomas, b. 1582.</author>
+               </titleStmt>
+               <extent>[5], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Best for William Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Advertisement on p. 56.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>George, --  Saint, d. 303 --  Legends.</term>
+               <term>George, --  Saint, d. 303 --  Poetry.</term>
+               <term>Legends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96123:1"/>
+            <pb facs="tcp:96123:1"/>
+            <p>THE HISTORY OF THE Life &amp; Martyrdom OF S<hi rend="sup">t</hi>. GEORGE, THE Titular Patron of England: With his Converſion of <hi>Arabia</hi> by kil<g ref="char:EOLhyphen"/>ling of a dreadful Dragon, and deliver<g ref="char:EOLhyphen"/>ing the Kings Daughter.</p>
+            <p>By THOMAS LOWICK, Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Beſt,</hi> for WILLIAM CROOK, at the three Bibles on <hi>Fleet-Bridge,</hi> 1664.</p>
+         </div>
+         <div type="license_to_print">
+            <pb facs="tcp:96123:2"/>
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 24. 1664.</date>
+               </dateline>
+               <signed>ROGER LESTRANGE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96123:2"/>
+            <head>TO THE KINGS Moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>Dread Soveraign,</salute>
+            </opener>
+            <l>
+               <hi>I</hi> Have read ſo many lying Books ſet forth</l>
+            <l>Of great St. <hi>George</hi> w<hi rend="sup">c</hi>h much obſcur'd his worth,</l>
+            <l>That much I mus'd and grieved for to ſee</l>
+            <l>None of the ſharers in the <hi>Daphnean Tree,</hi>
+            </l>
+            <l>For King, for Patron, and for Countries ſake,</l>
+            <l>Did ſuch a glorious Subject undertake:</l>
+            <l>And their neglect only made me ſo bold,</l>
+            <l>Though aged now eighty and two years old,</l>
+            <l>with my old withered Hand to write upon</l>
+            <l>The nobleſt Subject that the world hath one,</l>
+            <l>And have with all Sincerity ſet down,</l>
+            <l>St. <hi>George</hi> his Martial deeds and Martyrdom:</l>
+            <pb facs="tcp:96123:3"/>
+            <l>Vouchſafe then gratious Monarch for to take</l>
+            <l>This little Poem for your Patrons ſake:</l>
+            <l>For in my judgement never <hi>Engliſh</hi> King</l>
+            <l>Had greater cauſe than You, to honour Him:</l>
+            <l>Heroick force and Martial form withal,</l>
+            <l>Twixt King and Patron were collateral,</l>
+            <l>And that bright Orb where <hi>Mars</hi> is ſtellifi'd,</l>
+            <l>'Did equal influence 'twixt you both divide:</l>
+            <l>And your great daring both as boundleſs were</l>
+            <l>As that bold youth's, <hi>Apollo</hi>'s Charioteer:</l>
+            <l>Be pleaſed then earths greateſt Martial King,</l>
+            <l>To hear your Vaſſal on your Patron ſing,</l>
+            <l>And do vouchſafe him your propitious eyes,</l>
+            <l>He periſheth unleſs you Patronize.</l>
+            <closer>
+               <signed>Your Majeſties moſt Humble Subject, THOMAS LOWICK.</signed>
+               <date>July <hi>6. 1664.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:96123:3"/>
+            <head>THE Life &amp; Martyrdom OF S<hi rend="sup">t</hi>. GEORGE.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>T. <hi>George,</hi> the Patron of our Engliſh men,</l>
+               <l>Was the Deſcendent of a Knightly ſtem,</l>
+               <l>Great Arms profeſſors, and to their great <hi>fame,</hi>
+               </l>
+               <l>Profeſſors all of Jeſus Chriſt his <hi>Name.</hi>
+               </l>
+               <l>His Father Sir <hi>Patritius</hi> was train'd</l>
+               <l>In <hi>Caeſars</hi> Wars, and Martial honour gain'd:</l>
+               <l>Where ventring for the conqueſt of the Field,</l>
+               <l>He dyed renown'd, under his ſword and Shield;</l>
+               <l>Leaving St. <hi>George,</hi> who was his only Son,</l>
+               <l>For to inherit great Poſſeſſions young;</l>
+               <l>Which he committing to a Stewards care,</l>
+               <l>Left <hi>Cappadocia</hi> his birth honour'd Air;</l>
+               <pb n="2" facs="tcp:96123:4"/>
+               <l>And with his Mother liv'd in <hi>Paleſtine,</hi>
+               </l>
+               <l>Where he was School'd in rudiments Divine,</l>
+               <l>Till ſtealing Time and Nature lent to him</l>
+               <l>More force then <hi>Hectors</hi> in Armes managing;</l>
+               <l>And as compleat a beauty fix'd thereon,</l>
+               <l>As had the Scriptures much-prais'd <hi>Abſolon;</hi>
+               </l>
+               <l>Nor wanted in his fair external frame,</l>
+               <l>Thoſe moral gifts ſhould dignifie the ſame:</l>
+               <l>Both Wit and Valour in his beauteous ſhape,</l>
+               <l>In ſuch large meaſure did predominate,</l>
+               <l>That he was natures Manuſcript indeed,</l>
+               <l>Where her prerogatives the world might read:</l>
+               <l>And leſt he ſhould ſiniſterly incline,</l>
+               <l>God ſtor'd his boſom with ſuch gifts Divine,</l>
+               <l>That not ſo fair a type of Chriſt was then,</l>
+               <l>As great St. <hi>George,</hi> amongſt the ſons of men;</l>
+               <l>And heimbelliſh'd, thus himſelf addreſt,</l>
+               <l>For Martial ſervice in true honours queſt;</l>
+               <l>For which being come unto the Court of <hi>Rome,</hi>
+               </l>
+               <l>Great <hi>Caeſar</hi> noting his indowments ſoon,</l>
+               <l>Mov'd with his Fathers death and Martial force,</l>
+               <l>He made St. <hi>George</hi> the General of his Horſe;</l>
+               <l>Where like a prodigal of life did he,</l>
+               <l>Supply that place ſo magnanimouſly,</l>
+               <l>That never <hi>Rome</hi> in all her ſwelling pride</l>
+               <l>Saw her bold ſons led by a braver Guide;</l>
+               <pb n="3" facs="tcp:96123:4"/>
+               <l>Nor one that boldlier led the Imperial Horſe</l>
+               <l>Through their proud foes with more robuſtous force</l>
+               <l>He charg'd them through, and charg'd them back again,</l>
+               <l>And brought his Troops where firſt he placed them,</l>
+               <l>And ceas'd not charging till the foes all were</l>
+               <l>Diſpers'd, and run like ſcatter'd Herds of Deer;</l>
+               <l>Yet never Trumpet his bold Conqueſt ſounded,</l>
+               <l>Before the liſting of his ſlain and wounded;</l>
+               <l>Whom he ſtill with ſad ſighs and watry eyes,</l>
+               <l>Would ſee born back to honour'd obſequies;</l>
+               <l>That his brave actions from conjunction move</l>
+               <l>Of Martial fire, and fire of ſacred love.</l>
+               <l>He courts the bold <hi>Bellona</hi> with his Horſe,</l>
+               <l>And ſnatch'd her favours with ſuch ſtrenuous force,</l>
+               <l>That the Iron Goddeſs did enamoured grow,</l>
+               <l>And her coy favours on this Champion throw;</l>
+               <l>And <hi>Mars</hi> look'd envious from his fiery ſtar,</l>
+               <l>To ſee his great Competitor in War,</l>
+               <l>And jealous to ſee his <hi>Bellona</hi> court him,</l>
+               <l>Whilſt he in field ſo Martially did ſport him,</l>
+               <l>That his appearance 'mongſt his foes was fear'd,</l>
+               <l>Like to the blazing of a Comets beard;</l>
+               <l>None was ſo bold to tempt an angry fate,</l>
+               <l>Or buy his honour at ſo dear a rate,</l>
+               <l>As to encounter this Knight hand to hand,</l>
+               <l>But ſpelded duty on the groaning land:</l>
+               <pb n="4" facs="tcp:96123:5"/>
+               <l>And thoſe Commanders which through proud diſdain,</l>
+               <l>Loath'd for to hear the ſwelling of his fame,</l>
+               <l>And ſpur'd with glory thirſt in fears deſpight,</l>
+               <l>Would needs buy honours of this valiant Knight,</l>
+               <l>He ſent as Nuncioes to black <hi>Acheron,</hi>
+               </l>
+               <l>To tell th' exploits the Red-croſs Knight had done;</l>
+               <l>And bid thoſe Ghoſts their ſulpherous vaults to cleanſe,</l>
+               <l>For thoſe proud gueſts St. <hi>George</hi> would ſend from thence;</l>
+               <l>And thoſe which ſcape with life his ſwords inciſion,</l>
+               <l>And captives laid in Provoſt Martials priſon,</l>
+               <l>Had rather live there then again go feel,</l>
+               <l>The ponderous blows of his remorſeleſs ſteel:</l>
+               <l>In brief, his great exploits and Martial glory,</l>
+               <l>Fill'd all th' <hi>Italian</hi> Confines with his ſtory;</l>
+               <l>For great St. <hi>George</hi> had never Paragon,</l>
+               <l>But that immortal Champion which St. <hi>John</hi>
+               </l>
+               <l>Saw riding on the white Horſe from Heavens gates,<note place="margin">Rev. 6.2.</note>
+               </l>
+               <l>With power to conquer earths proud Potentates;</l>
+               <l>Yet his ſweet candor during all the War,</l>
+               <l>Made many others ſeem canicular;</l>
+               <l>For all the darts and ſwords in <hi>Vulcans</hi> forge,</l>
+               <l>Like tender pitty pierc'd not princely <hi>George.</hi>
+               </l>
+               <l>That little child Chriſt let the Apoſtles ſee,</l>
+               <l>To teach them meekneſs, was leſſe meek then he;</l>
+               <l>Whoſe actions like learn'd Lectures taught the rude,</l>
+               <l>That love is ſtill betroath'd to fortitude.</l>
+               <pb n="5" facs="tcp:96123:5"/>
+               <l>How then learn'd <hi>Homer</hi> didſt thou ſo digreſs,</l>
+               <l>To ſtile thy ſtormy <hi>Graecian</hi> valorous?</l>
+               <l>The valiant ſhould he like that God and man,</l>
+               <l>Which <hi>David</hi> Lion, <hi>Eſaiah</hi> called Lamb:</l>
+               <l>So was St. <hi>George,</hi> who ne're did internect</l>
+               <l>A torvous look within his mild aſpect;</l>
+               <l>He never was dejected nor elate,</l>
+               <l>With <hi>Protean</hi> changes of unconſtant fate;</l>
+               <l>Nor did he ever vulgar Plaudit ſeek,</l>
+               <l>Vain glorious breath did never ſwell his cheek.</l>
+            </lg>
+            <lg>
+               <l>But my rude laudes injure his vertues glory,</l>
+               <l>Therefore I leave them and relate his ſtory.</l>
+            </lg>
+            <lg>
+               <l>Whilſt he and his Comrades enlarge the lands</l>
+               <l>Of their great <hi>Caeſar</hi> with ſucceſsful hands,</l>
+               <l>Came an Embaſſage from th' <hi>Arabian</hi> coaſt,</l>
+               <l>And thus annunciates to that famous hoaſt:</l>
+            </lg>
+            <lg>
+               <l>You <hi>Mars</hi> ſtarr'd children of victorious <hi>Rome,</hi>
+               </l>
+               <l>Commanded by th' <hi>Arabian</hi> King I come</l>
+               <l>To <hi>Romes</hi> great Monarch, at whoſe feet do bow</l>
+               <l>The greateſt Potentates on earth below,</l>
+               <l>His aid and beſt aſſiſtance to requeſt,</l>
+               <l>Againſt a Monſter doth our Land infeſt;</l>
+               <l>Whoſe dreadful ſight, unto the eyes of man,</l>
+               <l>Exceeds the terror of <hi>Leviathan;</hi>
+               </l>
+               <l>And for the vaſtneſs of his ſize doth paſs,</l>
+               <l>That monſtrous Horſe the <hi>Graecians</hi> made of braſs,</l>
+               <pb n="6" facs="tcp:96123:6"/>
+               <l>And by his entrails works us more annoy,</l>
+               <l>Then the diſſolving of that Horſe, did <hi>Troy;</hi>
+               </l>
+               <l>This Monſter hath affixed wings and fins,</l>
+               <l>And flies through Air, and through the water ſwims,</l>
+               <l>And from his entrails he exhaleth breath,</l>
+               <l>Which doth depopulate each place with death;</l>
+               <l>Nor will our Gods or Prieſts give their conſent,</l>
+               <l>We by removal ſcape this puniſhment;</l>
+               <l>For <hi>Jove,</hi> (as all our Prieſts affirm) did bring,</l>
+               <l>This Monſter for to vindicate our ſin;</l>
+               <l>And therefore do we offer every day,</l>
+               <l>A Maid of noble linage for his prey;</l>
+               <l>By <hi>Joves</hi> decree, whoſe Prieſt expreſly ſaith,</l>
+               <l>Thoſe Virgins blood muſt expiate his wrath;</l>
+               <l>And having had <hi>Joves</hi> preordained number,</l>
+               <l>The monſter will no more our Land incumber.</l>
+               <l>But at the laſt their Sacriledge did bring,</l>
+               <l>Unto that fate, the daughter of our King;</l>
+               <l>Who for her birth ſake hath by <hi>Joves</hi> conſent,</l>
+               <l>An hundred dayes to her in reſpite lent;</l>
+               <l>But then as an Oblation muſt be ty'd,</l>
+               <l>Unto a Pillar neer the Cities ſide;</l>
+               <l>Upon the margent of a Lake profound,</l>
+               <l>Which doth circumplicate an Orb of ground,</l>
+               <l>Wherein this ugly Dragon hath his Den,</l>
+               <l>Within the concave of a loathſom Fen;</l>
+               <pb n="7" facs="tcp:96123:6"/>
+               <l>From whence he cometh to the Town each day,</l>
+               <l>To fetch the Virgin his oblated prey;</l>
+               <l>Which if he find not at the pillar plac'd,</l>
+               <l>His peſt and ravine doth our City waſte.</l>
+               <l>Now therefore <hi>Romans</hi> unto you I came,</l>
+               <l>Becauſe to us it is divulg'd by fame,</l>
+               <l>Here is a God call'd Jeſus Chriſt, whoſe power</l>
+               <l>Surpaſſeth all the gods that we adore,</l>
+               <l>And that his ſervants far more potent are,</l>
+               <l>Then <hi>Mars, Apollo,</hi> or great <hi>Jupiter;</hi>
+               </l>
+               <l>If therefore that great God would ſome deſign,</l>
+               <l>And him invertue with his power Divine,</l>
+               <l>To kill this Dragon, and ſet free our Land,</l>
+               <l>His Altars ſhould in all our Temples ſtand;</l>
+               <l>And that ſame Champion ſo ſelect by him,</l>
+               <l>Shall have great honours from th' <hi>Arabian</hi> King.</l>
+               <l>Which words did make that canvaſs builded City</l>
+               <l>Much moved, both with wonder and with pitty:</l>
+               <l>But not a tongue durſt ſpeak of Jeſus Name,</l>
+               <l>Leſt his bold words to <hi>Caeſars</hi> hearing came,</l>
+               <l>Until St. <hi>George</hi> whoſe never daunted breſt,</l>
+               <l>Much longing to divulge the power of Chriſt,</l>
+               <l>Replied, <hi>Arabian,</hi> loe I am the man,</l>
+               <l>Which dare encounter that <hi>Leviathan,</hi>
+               </l>
+               <l>And ſhall thereby diſcriminate the odds,</l>
+               <l>'Twixt Jeſus Chriſt and your deluding gods;</l>
+               <pb n="8" facs="tcp:96123:7"/>
+               <l>For if I do not Heavens decrees miſconſter,</l>
+               <l>I am deſign'd the ruin of that Monſter;</l>
+               <l>And hope my Imperial Lord will lend to me</l>
+               <l>Some certain time to ſet that Princeſs free;</l>
+               <l>And if I do ſurvive, I vow my hands,</l>
+               <l>Shall expeditiouſly wait his commands:</l>
+               <l>But by theſe words the Emperor did find,</l>
+               <l>His General was to Chriſtian Faith inclin'd,</l>
+               <l>And vexed ſaid, Let the mad Chriſtian go,</l>
+               <l>I cannot match him with a fitter foe;</l>
+               <l>But then the <hi>Arabian</hi> ſaid, Brave Champion, know,</l>
+               <l>It is not your hand nor a thouſand moe,</l>
+               <l>Can conquer him, Chriſt muſt his Champion ſave,</l>
+               <l>Or the great Dragons guts muſt be his grave;</l>
+               <l>But yet this fearleſs Knight himſelf addreſt</l>
+               <l>Unto <hi>Arabia</hi> on this famous queſt,</l>
+               <l>And came at laſt conducted by his Guide,</l>
+               <l>Unto <hi>Berytus</hi> their chief Cities ſide,</l>
+               <l>Upon whoſe Walls the Citizens appear,</l>
+               <l>In ſable Robes to ſhew their mournful cheer;</l>
+               <l>Expecting, now this being the lateſt day,</l>
+               <l>To ſee the Dragon fetch his Royal prey.</l>
+            </lg>
+            <lg>
+               <l>But as they gaz'd, behold this Chriſtian Knight,</l>
+               <l>Approached neer upon a Courſer bright;</l>
+               <l>On whoſe white back reflective Sun-beams ſhine,</l>
+               <l>From his guilt Armor like ſome light Divine,</l>
+               <pb n="9" facs="tcp:96123:7"/>
+               <l>Making th' amazed gazers to ſuppoſe,</l>
+               <l>Some glory did both man and horſe incloſe;</l>
+               <l>And others which were more idolatrous,</l>
+               <l>Thought him their day-god on his <hi>Pegaſus:</hi>
+               </l>
+               <l>But ſurely of this Knight ſpoke <hi>David</hi> then,</l>
+               <l>That God from Angels ſcarce diſtinguiſh'd men;</l>
+               <l>For he appeared in as glorious ſhow,</l>
+               <l>As that arm'd Angel came to <hi>Jerico;</hi>
+               </l>
+               <l>For never Knight in combat lift, but he,</l>
+               <l>Appeared with ſuch God-like Majeſty;</l>
+               <l>Nor of our Engliſh or Barbarian breed,</l>
+               <l>Could ever Horſe compare with his white Steed;</l>
+               <l>So that all circling <hi>Titan</hi> ne're lent light</l>
+               <l>Unto ſo brave or ſo well-mounted Knight.</l>
+               <l>But as St. <hi>George</hi> rode thus in Martial guiſe,</l>
+               <l>Loe his fair eye as fair an Object ſpies;</l>
+               <l>For here alas, the Kings ſole Daughter ſtands,</l>
+               <l>Ty'd to a Pillar by her dainty hands:</l>
+               <l>This being th' appointed day, her woful fate,</l>
+               <l>The Prieſts of <hi>Jove</hi> would not procraſtinate;</l>
+               <l>So there ſhe ſtood, and like an Angel ſhone,</l>
+               <l>In pureſt lawns, fret o're with gold and ſtone,</l>
+               <l>Which ſcarce her boſoms candor could conceal,</l>
+               <l>It gave ſuch luſter through that ſlender vail;</l>
+               <l>Her dangling treſſes ſtrove her face to hide,</l>
+               <l>Scorning to proſtitute rich natures pride;</l>
+               <pb n="10" facs="tcp:96123:8" rendition="simple:additions"/>
+               <l>Or leſt ſome eyes, gazing on her fair cheek,</l>
+               <l>Should loſe themſelves, and have their light to ſeek;</l>
+               <l>For ſhe all Ladies did ſurpaſs as far</l>
+               <l>As orbed <hi>Cynthia</hi> doth the dimmeſt ſtar;</l>
+               <l>And nature had expreſt in her ſuch power,</l>
+               <l>As ſhe ne're daind to ſhew the world before;</l>
+               <l>For ſince th'alternate courſe of nights and dayes,</l>
+               <l>Shone never Lady with ſuch ſideral blaze;</l>
+               <l>And ſure her piteous looks were then ſo ſweet,</l>
+               <l>As had made Tygers proſtrate at her feet;</l>
+               <l>Or calm'd the Dragon with her eyes ſweet glance,</l>
+               <l>Without th'aſſiſtance of St. <hi>George</hi> his Lance;</l>
+               <l>But as ſhe raiſed her dejected eyes,</l>
+               <l>St. <hi>George</hi> the ſtar of Knighthood ſhe eſpies,</l>
+               <l>Who after congeant tender of his duty,</l>
+               <l>To her the Phenix of all mortal beauty,</l>
+               <l>Said, Royal Princeſs, I am a Chriſtian Knight,</l>
+               <l>Which with this dreadful Dragon came to fight;</l>
+               <l>Drawn hither from th'<hi>Italian</hi> Wars with pitty,</l>
+               <l>Of your diſtreſs, and this abuſed City;</l>
+               <l>And am reſolv'd to win your liberty,</l>
+               <l>Or have precedence in your Tragedy.</l>
+            </lg>
+            <lg>
+               <l>Brave Knight, ſaid ſhe again, return again,</l>
+               <l>I prize thy love, but thy attempt is vain:</l>
+               <l>Hadſt thou the cloud-ſupporting <hi>Atlas</hi> power,</l>
+               <l>Or wert ſublime and ſtrong as <hi>Babels</hi> Tower,</l>
+               <pb n="11" facs="tcp:96123:8"/>
+               <l>The ſuffocation of this Dragons breath,</l>
+               <l>Would leave thee inclos'd in the cold arms of death;</l>
+               <l>For <hi>Jove</hi> himſelf did this great Monſter bring;</l>
+               <l>Thou doſt oppoſe our gods oppoſing him:</l>
+               <l>What honour then bold Knight canſt thou attain,</l>
+               <l>To caſt thy ſelf away for glory vain?</l>
+               <l>Or what avails it now proud <hi>Phaeton,</hi>
+               </l>
+               <l>That he rid in the chariot of the Sun?</l>
+               <l>Do not therefore ſuch daring actions follow;</l>
+               <l>Take councel, and be not thy own <hi>Apollo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To whom the valiant Knight reply'd again,</l>
+               <l>Fair Princeſs, you do much miſtake my aim;</l>
+               <l>My youth's not heated with vain glorious fire,</l>
+               <l>Nor your rare beauties, which all elſe admire;</l>
+               <l>I came not hither on ſuch vain pretence,</l>
+               <l>My miſſion is of greater conſequence;</l>
+               <l>The finger of the Chriſtian God points me</l>
+               <l>To overthrow your vain idolatry;</l>
+               <l>This Monſter here was meerly bred by kind,</l>
+               <l>Nor was he hither ſent by <hi>Jove</hi> aſſign'd;</l>
+               <l>Though <hi>Jove</hi> would now the King tempt to ſuch evil,</l>
+               <l>As offering his fair Daughter to the Devil;</l>
+               <l>For truſt me Madam, thoſe you gods do call,</l>
+               <l>Are manufacts and things inanimal,</l>
+               <l>Wherein the damned ſpirits augurize,</l>
+               <l>To make the ſimple give them ſacrifice;</l>
+               <pb n="12" facs="tcp:96123:9"/>
+               <l>Yet know not thoſe damn'd Angels things to come,</l>
+               <l>Nor have they preſcience of the Almighties doom;</l>
+               <l>But intermix conjectural truths with lyes,</l>
+               <l>Which proves they are but Devils, not Deities:</l>
+               <l>But Jeſus Chriſt torments thoſe gods of yours,</l>
+               <l>Which are but damned ſubterranean powers,</l>
+               <l>With dateleſs pains; Nor could they move from thence,</l>
+               <l>But by the leave of his Omnipotence:</l>
+               <l>Be happy then, and expiate Gods wrath,</l>
+               <l>By your converſion to the Chriſtian Faith;</l>
+               <l>And doubt not but he will invertue me,</l>
+               <l>In ſpight of all thoſe Devils to ſet you free.</l>
+               <l>Renowned Chriſtian, ſaid this Royal Maid,</l>
+               <l>But contrite ſighs a ſpace her ſpeeches ſtayd;</l>
+               <l>And then with tear-imbalmed words ſaid She,</l>
+               <l>Brave Knight, thy ſpeech ſo conſolateth me,</l>
+               <l>That ſure ſome great and ſecret power Divine,</l>
+               <l>Involved in this verbal Air of thine,</l>
+               <l>Exhaleth thoſe groſs errors which of late.</l>
+               <l>Did my dark ſoul ſo much obnubilate;</l>
+               <l>For loe me thinks our vain idolatry.</l>
+               <l>Appeareth in ſuch ſordid nudity,</l>
+               <l>That all verſutious idols now I hate,</l>
+               <l>And unto Chriſt my ſervice conſecrate:</l>
+               <l>Which verbal Air of hers more grateful came</l>
+               <l>Then odours from the Phenix funeral flames</l>
+               <pb n="13" facs="tcp:96123:9"/>
+               <l>And like an Incenſe-offering did preſent</l>
+               <l>It ſelf unto the great Almighties ſcent;</l>
+               <l>It pleaſed God, and comforted this Knight,</l>
+               <l>As <hi>Manna</hi> did the ſtarved <hi>Abramite;</hi>
+               </l>
+               <l>But loe from mural Towers adjacent neer,</l>
+               <l>Much people which their conference did hear,</l>
+               <l>And ſubinvited by celeſtial grace,</l>
+               <l>Reſolv'd the Faith of Jeſus to embrace;</l>
+               <l>To which effect a Meſſenger was ſent,</l>
+               <l>To internunciate thus the Kings intent:</l>
+               <l>Bold Chriſtian Knight, if that thy God ſet free</l>
+               <l>This woful Lady by thy Victory,</l>
+               <l>We will renounce our gods, and Chriſt agnize,</l>
+               <l>The indubitable Regent of the skies:</l>
+               <l>Which Meſſage to St. <hi>George</hi> did comfort bring,</l>
+               <l>As <hi>Samuel</hi> to <hi>Saul</hi> annointing him;</l>
+               <l>Or, as that Angel which to <hi>Abraham</hi> came,</l>
+               <l>And held his ſword when <hi>Iſaac</hi> ſhould be ſlain;</l>
+               <l>And made Heavens joyful Angels ſing ſweet notes,</l>
+               <l>To hear the Conſort of ſuch heavenly votes;</l>
+               <l>No wonder ſeeing its the Goſpels voice,</l>
+               <l>All Angels at one Convertite rejoyce:</l>
+               <l>And now St. <hi>George</hi> confided he was ſent</l>
+               <l>On this exploit by Heavens atturnament;</l>
+               <l>And his moſt ſacred Zeal thoſe ſouls to win,</l>
+               <l>Like <hi>Sampſons</hi> locks invigorateth him,</l>
+               <pb n="14" facs="tcp:96123:10"/>
+               <l>Making his valiant heart ſo hate delay,</l>
+               <l>That thus he objurgates the Dragons ſtay;</l>
+               <l>When lands the Dragon on this Lakes broad marge,</l>
+               <l>I muſt go make my barded Steed my Barge;</l>
+               <l>And rouze him in his Water fenced Fen,</l>
+               <l>Within the cavern of his loathſom Den:</l>
+               <l>But as he ſpoke, luctiferous noiſes riſe</l>
+               <l>From off the Walls, like <hi>Iriſh</hi> Funeral cryes;</l>
+               <l>For they behold, though to behold they fear,</l>
+               <l>The Dragons head, and flaming eyes appear:</l>
+               <l>It ſeems the genius of <hi>Berytus</hi> City</l>
+               <l>Had rous'd the Monſter out of ſacred pitty,</l>
+               <l>To expedite his death, and vilifie</l>
+               <l>Th'inſhrined <hi>Jupiters</hi> falſe Propheſie;</l>
+               <l>For loe the Dragon longing for his prey,</l>
+               <l>Through the broad Lake cuts out his froathy way,</l>
+               <l>Driving before him billows to the ſide,</l>
+               <l>Like Aquilonian ſtorms, or New-moon tyde,</l>
+               <l>That by the fluctuous Lake St. <hi>George</hi> doth know</l>
+               <l>The monſtrous ſize of his approaching foe;</l>
+               <l>Yet boldly without fear he took his ſtand</l>
+               <l>In moſt commodious place of all the Land;</l>
+               <l>From whence he met him with ſuch fierce careir,</l>
+               <l>He quite tranſpierc'd him with his fatal Spear;</l>
+               <l>Whilſt on his ſcaly breaſt his Horſes knees</l>
+               <l>Beat like a ram compos'd of Oaken trees,</l>
+               <pb n="15" facs="tcp:96123:10"/>
+               <l>And turn'd him o're with ſuch impetuous might,</l>
+               <l>That <hi>Tellus</hi> boſom trembled with his weight;</l>
+               <l>But yet it ſeemed that his conquering Lance</l>
+               <l>Had miſs'd his heart by ſome ſiniſter chance;</l>
+               <l>For loe the Dragon recollecting force,</l>
+               <l>With furious charge encounters man and horſe;</l>
+               <l>And now the Monſter, and this Chriſtian Knight,</l>
+               <l>For the ſurviverſhip ſo fiercely fight,</l>
+               <l>That never was encounters like to theſe,</l>
+               <l>Since Hells great porter fought with <hi>Hercules;</hi>
+               </l>
+               <l>And ſure the Knight had dyed, but heavenly power</l>
+               <l>Subſiſted him in this robuſtous ſtowre:</l>
+               <l>It ſeems th'Almighty was diſpoſed then,</l>
+               <l>By ruin of the Dragon of this Fen,</l>
+               <l>Th'Archangels conqueſt to configurate,</l>
+               <l>Againſt the Dragon of the Stygean Lake;</l>
+               <l>For loe St. <hi>George</hi> in heat of Martial pride,</l>
+               <l>With deadly wounds doth carve his ſcaly hide,</l>
+               <l>And with a ponderous blow nigh cleft his brain,</l>
+               <l>Which did ſubvert him on the ſandy Plain;</l>
+               <l>Wherewith he cry'd, that his loud yells did enter</l>
+               <l>Through all the concaves of earths vaulted center;</l>
+               <l>Making all <hi>Tellus</hi> boſom dance for joy,</l>
+               <l>To ſee her ſelf freed from ſo great annoy;</l>
+               <l>Or elſe may be th'Avernal Potentate,</l>
+               <l>Leaving the Dragon he poſſeſs'd of late,</l>
+               <pb n="16" facs="tcp:96123:11"/>
+               <l>Expanded now his paſſage to Hells ſtrand,</l>
+               <l>And caus'd that tremefaction of the Land;</l>
+               <l>But howſoe're it was our conquering Knight,</l>
+               <l>Dreadleſs of Devil or Dragon, plyes the fight;</l>
+               <l>And at the laſt with his ſharp piercing blade,</l>
+               <l>Unto his heart ſo wide a paſſage made,</l>
+               <l>That from his bulk run torrents of ſuch gore,</l>
+               <l>As nigrified the black Lake more and more;</l>
+               <l>And cutting off his Head, did it advance,</l>
+               <l>Againſt the Walls upon his Oaken Lance;</l>
+               <l>Then joyfully that Princeſs hands unties,</l>
+               <l>And to <hi>Berytus</hi> led his beauteous prize:</l>
+               <l>Thus like thoſe twins of light the Sun and Moon,</l>
+               <l>Their darkſom clouds of danger over-blown,</l>
+               <l>With tedious fixure they retain each eye,</l>
+               <l>T' admire their beauties interſplendency;</l>
+               <l>But as they progreſs to the Palace gate,</l>
+               <l>The King did meet them in all pompous ſtate,</l>
+               <l>With all his Lords and Peeres of chiefeſt ranks,</l>
+               <l>To tender both their welcom and their thanks;</l>
+               <l>And to the Palace did conduct their gueſt,</l>
+               <l>Where his great entertainment was expreſt</l>
+               <l>With all the delicates that could be wiſh'd</l>
+               <l>By the moſt Epicureal Palatiſt;</l>
+               <l>And with all curious ſhows they could deviſe</l>
+               <l>To make the Court a type of Paradiſe;</l>
+               <pb n="17" facs="tcp:96123:11"/>
+               <l>For all the Court in plenitude expreſt</l>
+               <l>Their joyes to that freed Princeſs and her gueſt;</l>
+               <l>In which great Jubile they take content,</l>
+               <l>Like two freed ſouls from the dark Limbus ſent,</l>
+               <l>T' <hi>Elyſian</hi> joyes; but worldly honours weights,</l>
+               <l>With their Auxilaries the Courts delights,</l>
+               <l>Like armed ſquadrons did attempt by force</l>
+               <l>St. <hi>George</hi> his love from Jeſus to divorce;</l>
+               <l>But being indorsed with ſuch burthens then,</l>
+               <l>And knowing the proclivity of men,</l>
+               <l>Like wiſe <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> inſtantly he parted</l>
+               <l>From amorous <hi>Myrmaids</hi> which his courſe diverted;</l>
+               <l>And in that great and ſpatious Palace Hall</l>
+               <l>St. <hi>George</hi> did convocate the Princes all,</l>
+               <l>And with Angelick eloquence expreſt,</l>
+               <l>The life and Miracles of Jeſus Chriſt,</l>
+               <l>Connecting by ſuch learn'd Theologie,</l>
+               <l>To their effect each ſacred Propheſie,</l>
+               <l>That all Prophetick Scriptures did appear</l>
+               <l>Compleat in Chriſt which in the Bibles were;</l>
+               <l>By which great Majeſty of ſacred Writ,</l>
+               <l>All did the indenegable truth admit;</l>
+               <l>And throwing all their Idols in the flame,</l>
+               <l>With general Jubile confeſt Chriſts Name,</l>
+               <l>And promis'd to erect magnificent</l>
+               <l>And ſumptuous Temples to th' Omnipotent;</l>
+               <pb n="18" facs="tcp:96123:12"/>
+               <l>For whoſe Converſion did St. <hi>George</hi> aſſign</l>
+               <l>The thank and glory to the grace Divine;</l>
+               <l>And now his Voyage he intends again,</l>
+               <l>To <hi>Caeſars</hi> Tents to glorifie Chriſts Name;</l>
+               <l>For whoſe departure, both the King and Queen,</l>
+               <l>With all the Court, in ſable Robes were ſeen;</l>
+               <l>For never Knight ſuch cordial intereſt gain'd</l>
+               <l>In a whole Cities love, ſince earth was fram'd;</l>
+               <l>Yet he Apoſtle-like all gifts denyed,</l>
+               <l>Wherewith the bounteous King him gratified,</l>
+               <l>Except the Idols melted gold, the King</l>
+               <l>Did there compulſively confer on him,</l>
+               <l>Which as a Monument he did tranſport,</l>
+               <l>To witneſs his exploits in <hi>Caeſars</hi> Court,</l>
+               <l>And then was reconducted with a Train</l>
+               <l>Of honour'd perſons to the ſhore again;</l>
+               <l>Where, after many valedictions paſt,</l>
+               <l>His canvas winged Ship he boards at laſt;</l>
+               <l>Whilſt Heavens commanded <hi>Neptune</hi> as he paſſes,</l>
+               <l>Makes ſmooth his proſperous way with looking-glaſſes;</l>
+               <l>And <hi>Cynthia</hi> came to viſit him by night,</l>
+               <l>And court his favours with full orbed light;</l>
+               <l>But doubtful he ſhould ſuch a Lady ſcorn,</l>
+               <l>As he ſhould find behind a buſh of thorn:</l>
+               <l>Inexorable <hi>Aeolus</hi> likewiſe</l>
+               <l>Did tender his unconſtant courteſies;</l>
+               <pb n="19" facs="tcp:96123:12"/>
+               <l>And for his convoy ſent a proſperous gale,</l>
+               <l>Which to the ſhore brought ſafe his ſwelling ſail;</l>
+               <l>Where being landed with <hi>Berytians</hi> ſent,</l>
+               <l>For to conduct him to great <hi>Caeſars</hi> Tent,</l>
+               <l>And in his preſence there to teſtifie,</l>
+               <l>His Champions great exploit and valiancie;</l>
+               <l>Making the Emperor take a great delight,</l>
+               <l>To hear the bold deportment of his Knight,</l>
+               <l>And by his abſence now they underſtand,</l>
+               <l>How much depended on his powerful hand;</l>
+               <l>Who ſtriving to reſpond their great expects,</l>
+               <l>No glorious opportunities neglects:</l>
+               <l>But when his Troops lie vacant, ſendeth forth</l>
+               <l>Some Trumpeter, 'mongſt men of Martial worth,</l>
+               <l>To ſee if any in baſe feats deſpight,</l>
+               <l>Durſt venture combat with this valiant Knight;</l>
+               <l>And if his ſervice be in open War,</l>
+               <l>He ſtill doth charge where greateſt perils are,</l>
+               <l>And with a ſtrenuous hand his paſſage ſtrows</l>
+               <l>With his proud glory thirſting plumed foes;</l>
+               <l>And <hi>Caeſar</hi> joy'd to ſee his General lead</l>
+               <l>So War God-like to the Battalians head;</l>
+               <l>But whilſt Fame, Fortune, and <hi>Bellona</hi> too,</l>
+               <l>Their ſtock of favours on this Champion throw,</l>
+               <l>This Heaven-dear Knight begun to vilepend</l>
+               <l>Thoſe duſty honors do on <hi>Mars</hi> attend,</l>
+               <pb n="20" facs="tcp:96123:13"/>
+               <l>And only aimed at the true renown,</l>
+               <l>Which is annexed to the Martyrs crown;</l>
+               <l>And ſeeing the times for Martyrdom were fit,</l>
+               <l>Snatch'd at th' occaſion for to purchaſe it;</l>
+               <l>The manner how my Muſe ſhall here impart,</l>
+               <l>Though much I fear to injure his deſart;</l>
+               <l>Therefore good Angel Guardian guide my Pen,</l>
+               <l>For I ſuppoſe thou wert ſpectator then;</l>
+               <l>For if St. <hi>Paul</hi> told the <hi>Corinthians</hi> true,<note place="margin">1. <hi>Cor</hi> 4.9 In our ſunerings for Chriſt, we are made ſpe<g ref="char:EOLhyphen"/>ctacles to the world and to Angels.</note>
+               </l>
+               <l>You heavenly Spirits do our Paſſions view;</l>
+               <l>Aſſiſt me therefore in this pretious charge,</l>
+               <l>To tell each needful circumſtance at large.</l>
+               <l>When <hi>Romes</hi> proud Diocleſian ſtood poſſels'd</l>
+               <l>Of all between the Orient and the Weſt,</l>
+               <l>That <hi>Titan</hi> ſcarce in all his annual toyl,</l>
+               <l>Could riſe or ſet but on this Monarchs ſoyl,</l>
+               <l>And was ſo fortunate, his Enſigns ſight,</l>
+               <l>Like <hi>Gideons</hi> lanthorns put all foes to flight;</l>
+               <l>Which great ſucceſs and proſperous Martial thrift,</l>
+               <l>He did aſcribe unto <hi>Apollo</hi>'s gift;</l>
+               <l>And therefore in requital of the ſame,</l>
+               <l>Did a moſt ſumptuous ſacrifice ordain;</l>
+               <l>On which was every man charg'd to attend,</l>
+               <l>That would be counted for great <hi>Caeſars</hi> Friend;</l>
+               <l>So that there came a greater multitude,</l>
+               <l>Then all <hi>Apollo</hi>'s Temple could include:</l>
+               <pb n="21" facs="tcp:96123:13"/>
+               <l>But lo the crying Prieſt in vain doth call,</l>
+               <l>
+                  <hi>Apollo</hi> would not augurate at all,</l>
+               <l>And their god <hi>Beryth</hi> in a deep diſdain</l>
+               <l>Would for no ſacrifice divine to them;</l>
+               <l>But ſaid, If <hi>Caeſar</hi> will have us his Friends,</l>
+               <l>By whom his Empire now ſo far extends,</l>
+               <l>He muſt permit no Chriſtians here to live,</l>
+               <l>And then we will our divinations give;</l>
+               <l>Enough ſaid <hi>Caeſar,</hi> Ile remove th' offence</l>
+               <l>Which cauſeth this their wrathful conticence,</l>
+               <l>Which to effect he doth a Council file,</l>
+               <l>The Chriſtians from his Empire to exile;</l>
+               <l>Yet in the mean time fill'd his Jayles with them,</l>
+               <l>Releaſing Theeves and Homicides again;</l>
+               <l>This was the tenth and greateſt perſecution,</l>
+               <l>This Tyrant rais'd for Chriſtian bloods effuſion;</l>
+               <l>In which, as <hi>Roman</hi> Hiſtories explain,</l>
+               <l>Twelve thouſand Martyrs did their crowns obtain;</l>
+               <l>And let me to our Patrons honour ſay,</l>
+               <l>He was the chief which led that glorious way;</l>
+               <l>Nor were of thoſe twelve thouſand Martyrs any,</l>
+               <l>Whoſe tortures were like his, ſo great or many;</l>
+               <l>And now the <hi>Roman</hi> Peers in ſolemn ſtate,</l>
+               <l>Did all unto that Council congregate,</l>
+               <l>'Mongſt whom as Umpire ſate that awful man,</l>
+               <l>The worlds great Monarch <hi>Diocleſian,</hi>
+               </l>
+               <pb n="22" facs="tcp:96123:14"/>
+               <l>In purple Robes, imboſt with gold and ſtone,</l>
+               <l>Upon a glorious high ſupported Throne;</l>
+               <l>About the which at diſtance circular,</l>
+               <l>Did ſtand his choiceſt armed guards of War;</l>
+               <l>That 'mongſt the great and dreadful ſons of men,</l>
+               <l>What ſaw great <hi>Titan</hi> like <hi>Bomet</hi> Monarch then?</l>
+               <l>But theſe great props of awe, which did affright</l>
+               <l>All weaker ſpirits, more inflam'd our Knight;</l>
+               <l>For loe St. <hi>George</hi> diſpoſing goods and Lands,</l>
+               <l>Which were exceeding great in Chriſtian alms,</l>
+               <l>Did boldly enter 'mongſt thoſe Princes all,</l>
+               <l>Which were convented in that Council-Hall;</l>
+               <l>And like a valiant Chriſtian arm'd with Zeal,</l>
+               <l>Did thus ſolicit for the Churches Weal:</l>
+               <l>You noble <hi>Romans</hi> which were wont to make,</l>
+               <l>So many good Laws for your Countries ſake,</l>
+               <l>What fury thus infaſcinateth you</l>
+               <l>Here to conſult the Chriſtians overthrow,</l>
+               <l>Seeing your ſelves deſigned are to be</l>
+               <l>The chief ſupport of Chriſtianity?</l>
+               <l>For <hi>Eſaiah,</hi> Heavens great Prophet now long ſince,</l>
+               <l>Foretelling of the Churches eminence,</l>
+               <l>Doth ſay, Her chiefeſt power and ſtrength ſhould ſtand</l>
+               <l>Amidſt the glory of the <hi>Gentiles</hi> Land;</l>
+               <l>And where's the <hi>Gentiles</hi> glory now, but <hi>Rome,</hi>
+               </l>
+               <l>Where <hi>Jews</hi> and <hi>Gentiles</hi> both with Tribute come?</l>
+               <pb n="23" facs="tcp:96123:14"/>
+               <l>Which Chriſt's Apoſtle <hi>Paul</hi> confirmeth true,</l>
+               <l>When writing his Epiſtle unto you,</l>
+               <l>Firſt <hi>Romans,</hi> I give thanks for you, he ſaith,</l>
+               <l>Which through the world firſt publiſhed your Faith;</l>
+               <l>Then publiſh ſtill that Faith, renowned Prince,</l>
+               <l>Which heavens Omniſcience hath foretold long ſince,</l>
+               <l>Shall here be glorious, for it is not good</l>
+               <l>T' incur Gods wrath by ſpilling Chriſtian blood:</l>
+               <l>At which bold words the Princes ſitting by,</l>
+               <l>Were all poſſeſſed with ſtupidity;</l>
+               <l>And on the Emperor fix'd their ſilent eyes,</l>
+               <l>Expecting from him ſtrange and rough replies;</l>
+               <l>But in reſpect St. <hi>George</hi> his noble parts</l>
+               <l>Had gain'd great intereſt in the <hi>Roman</hi> hearts,</l>
+               <l>
+                  <hi>Caeſar</hi> connived that more patience</l>
+               <l>Might gain his Tyranny more juſt pretence;</l>
+               <l>And therefore to <hi>Magnentius</hi> his chief Friend,</l>
+               <l>Did give a kind of notice with his hand,</l>
+               <l>That in his place he ſhould apologate</l>
+               <l>To that diſplicient ſpeech St. <hi>George</hi> did make;</l>
+               <l>Wherefore <hi>Magnentius</hi> tokening him to come</l>
+               <l>To neerer diſtance, thus his ſpeech begun:</l>
+               <l>Bold Chriſtian Knight, declare to us from whence</l>
+               <l>Proceedeth this unheard of inſolence!</l>
+               <l>What vile ſeditious Author prompts thy tongue,</l>
+               <l>To thy own ruin, and great <hi>Caeſars</hi> wrong?</l>
+               <pb n="24" facs="tcp:96123:15"/>
+               <l>No other Author but the Truth, ſaid he,</l>
+               <l>I am prompted by the eternal Verity;</l>
+               <l>What is the Truth? <hi>Magnentius</hi> ſaid again;</l>
+               <l>Jeſus, ſaid He, which on the Croſs was ſlain;</l>
+               <l>And to give witneſs of his power and glory,</l>
+               <l>I hither came to this great Conſiſtory;</l>
+               <l>Which bold confeſſion did that Council make,</l>
+               <l>In various manners intermurmurate,</l>
+               <l>Till ſilence being call'd, the Emper or burſt</l>
+               <l>From that deep muſe, wherein he long was toſs'd,</l>
+               <l>Through agitations of his vexed ſoul,</l>
+               <l>And Dragon like did his fierce eye-balls rowl</l>
+               <l>From head to foot of that unwelcom Knight,</l>
+               <l>And thus beſpoke him with indignant ſpight;</l>
+               <l>Vile Wretch, what Star predominates in thee,</l>
+               <l>And draws thee on this timeleſs deſtiny?</l>
+               <l>Doſt thou in bloody tortures take content,</l>
+               <l>That thou oppoſeſt our great Parliament?</l>
+               <l>What makes thee like a ſilly Fly, in vain</l>
+               <l>Thus boldly dally with ſo dangerous flame?</l>
+               <l>If thou doſt think it after death ſome pleaſure,</l>
+               <l>To ſay thou once affrontedſt <hi>Roman Caeſar;</hi>
+               </l>
+               <l>Ile ſend thee ere thy bones be cold to tell</l>
+               <l>The power of <hi>Caeſar</hi> to the powers of Hell;</l>
+               <l>Yet for thy valours ſake thou ſhalt not ſay,</l>
+               <l>But that thy ſelf didſt caſt thy ſelf away;</l>
+               <pb n="25" facs="tcp:96123:15"/>
+               <l>This diſtance ſtill remains 'twixt thee and death,</l>
+               <l>If thou wilt yet revoke thy laviſh breath,</l>
+               <l>And be converted to our gods and faith,</l>
+               <l>An act of our Oblivion quits our wrath,</l>
+               <l>Or elſe, what tortures deaths black ſhop can lend,</l>
+               <l>Shall all concur unto thy wretched end.</l>
+               <l>I am ſorry, gracious Prince, the Saint reply'd,</l>
+               <l>Your love is to ſuch ſtrict conditions ty'd;</l>
+               <l>Might it be purchas'd as that golden Fleece</l>
+               <l>Was from the watchful Dragon brought to <hi>Greece,</hi>
+               </l>
+               <l>Or to obtain it, had but <hi>Caeſar</hi> bid</l>
+               <l>Me do thoſe labours great <hi>Alcides</hi> did,</l>
+               <l>I had been preſs'd; but to adore a Devil</l>
+               <l>Inſtead of Jeſus, I abhor that evil;</l>
+               <l>I will not blot my ſoul for the worlds gain</l>
+               <l>With ſuch a foul indefricable ſtain;</l>
+               <l>And much I muſe, great Majeſty, that you</l>
+               <l>To whom all knees 'twixt Eaſt and Weſt do bow,</l>
+               <l>Can deign to undergo ſuch vile abjection,</l>
+               <l>As tendring to a Devil your genuflection;</l>
+               <l>O ceaſe from hence, greeat Emperor, to prophane</l>
+               <l>Your far commanding tongue with that loath'd Name</l>
+               <l>Of god <hi>Apollo;</hi> honour Chriſt alone,</l>
+               <l>And all contentments ſhall attend your Throne.</l>
+               <l>Too much, too much, cry'd <hi>Caeſar,</hi> we have heard,</l>
+               <l>And with redoubled clamours call'd the Guard;</l>
+               <pb n="26" facs="tcp:96123:16"/>
+               <l>Whoſe bloody haſte, his haſty words out-run,</l>
+               <l>As bullets do the loud report of Gun,</l>
+               <l>And with ſuch raptive rage did ſnatch him thence,</l>
+               <l>As to the Tyrant gave great complacence,</l>
+               <l>And then include him in a dampiſh grate,</l>
+               <l>Whoſe noyſom vapours well-nigh ſuffocate,</l>
+               <l>A place where never any yet drew breath,</l>
+               <l>But Homicides, and men deſign'd for death;</l>
+               <l>There laid they him ſupinate on the ground,</l>
+               <l>His hands and feet in fetters ſtrongly bound,</l>
+               <l>Placing a pondrous ſtone upon his breaſt,</l>
+               <l>Which many Chriſtian ſouls had diſpoſſeſs'd</l>
+               <l>Of earthly cages, who in joyes Divine,</l>
+               <l>Adorn'd with glorious Martyrs crowns now ſhine;</l>
+               <l>And in that Dens profundity alone,</l>
+               <l>St. <hi>George</hi> with joy doth now embrace that ſtone.</l>
+               <l>And with continual laudes and hymns expreſt</l>
+               <l>His moſt indiſſoluble love to Chriſt;</l>
+               <l>And <hi>Caeſar</hi> now the ſecond day repairs</l>
+               <l>To reconſult upon his great affairs,</l>
+               <l>Where his chief Lords with great circumfluence</l>
+               <l>In Council-Hall ſurround their awful Prince,</l>
+               <l>Who ſcarcely can propound his vile decree,</l>
+               <l>Ere his obſequious Lords do all agree;</l>
+               <l>And having for ſome certain hours debated</l>
+               <l>Their horrid acts which great <hi>Jehovah</hi> hated,</l>
+               <pb n="27" facs="tcp:96123:16"/>
+               <l>
+                  <hi>Caeſar</hi> ſent one to know what ſad diſtreſs</l>
+               <l>St. <hi>George</hi> endur'd under his maſſy Preſs;</l>
+               <l>For he had lain under that pondrous ſtone,</l>
+               <l>Till <hi>Titan</hi> once about the world had gone;</l>
+               <l>So that the Councils judgement was inforc'd</l>
+               <l>To think his ſoul and body were divorc'd,</l>
+               <l>Or did remain in ſuch a languid ſtate</l>
+               <l>He would be ready to obtemperate;</l>
+               <l>But their vain hopes the event deluded quite,</l>
+               <l>For loe the glorious Saint approach'd their ſight</l>
+               <l>With ſo great animoſity and beauty,</l>
+               <l>His graceful preſence ſeem'd to challenge duty;</l>
+               <l>Which ſight did the ſpectators ſo amaze,</l>
+               <l>That for a ſpace they ſit in mutual gaze;</l>
+               <l>But <hi>Caeſar</hi> fearing leſt that ſome incline</l>
+               <l>To think the Saint preſerv'd by grace Divine,</l>
+               <l>Thus with ſcurrility begun to ſpeak,</l>
+               <l>Thou grand Profeſſor of the Magick feat,</l>
+               <l>I have another tortular device</l>
+               <l>Which ſhall enforce thee to our Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>You are miſtaken, ſaid the Saint again,</l>
+               <l>We Chriſtians do abhor ſuch arts prophane;</l>
+               <l>It is that curſed Devil which you adore,</l>
+               <l>Upholds his honour by the Magick power;</l>
+               <l>But we that Devil and all his arts deſpiſe,</l>
+               <l>Much leſs will tender him our ſacrifice,</l>
+               <pb n="28" facs="tcp:96123:17"/>
+               <l>Or be enforced to commit ſuch evil</l>
+               <l>By any ſervant of that hateful Devil;</l>
+               <l>And know great <hi>Caeſar,</hi> that for Jeſus ſake,</l>
+               <l>I ſhall your torturing grooms defatigate.</l>
+            </lg>
+            <lg>
+               <l>Well, ſaid the Tyrant, and I ſhall provide</l>
+               <l>Such kind of tortures for thee to abide,</l>
+               <l>Shall ſtrow thy mangled limbs to Crows and Kites,</l>
+               <l>And ſpare thy Coffin and thy Funeral rites;</l>
+               <l>Go Rack-maſters, fetch from your crimſon School</l>
+               <l>The ſharpeſt to tures for this Chriſtian fool;</l>
+               <l>At which command they brought a pondrous wheel,</l>
+               <l>All circumdented with huge knives of ſteel,</l>
+               <l>Which engine was the dreadfulleſt that yet</l>
+               <l>Invented was by any tyrants wit,</l>
+               <l>And on this wheel extens'd by feet and hands,</l>
+               <l>St. <hi>George</hi> was laid faſt manicled in bands;</l>
+               <l>And here brave <hi>Engliſh,</hi> if you wiſh to ſee</l>
+               <l>A perfect type of magnanimity,</l>
+               <l>Come and attend your noble Patrons ſtory,</l>
+               <l>For here are combats of the greateſt glory,</l>
+               <l>For all St. <hi>George</hi> his great exploits in War,</l>
+               <l>To this Heroick act but may-games are;</l>
+               <l>For never did pale death in form appear</l>
+               <l>So full of horror as this Enſign here;</l>
+               <l>Nor with leſs fear did ever mortal wight</l>
+               <l>Confront ſuch danger, then our valiant Knight,</l>
+               <pb n="29" facs="tcp:96123:17"/>
+               <l>Who on this wheel doth lye with pleaſant cheer,</l>
+               <l>As if that wheel ſome bed of Roſes were,</l>
+               <l>Whilſt now the turning of that rotal maſs,</l>
+               <l>Doth by the bloody knives ſo grind and gaſh</l>
+               <l>The holy Martyr, through each ſide and limb,</l>
+               <l>That the ſpectators loath'd to look on him,</l>
+               <l>And were enforced to divert their eyes</l>
+               <l>With deteſtation of thoſe butcheries;</l>
+               <l>And <hi>Diocleſian</hi> judging him quite ſlain,</l>
+               <l>Glorying in his revenge, departs again;</l>
+               <l>But ſcarce this Tyrant left the blood-goar'd ground,</l>
+               <l>When from the Heavens a great and fearful ſound</l>
+               <l>Break through the Airy regions with huge noiſe,</l>
+               <l>And to the Martyr did tranſport this voice;</l>
+            </lg>
+            <lg>
+               <l>Be conſtant <hi>George</hi> in witneſſing my Name,</l>
+               <l>For thy Confeſſion many ſouls muſt gain,</l>
+               <l>Which by thy paſſions muſt enlightned be,</l>
+               <l>And at my Altars come to honour me;</l>
+               <l>And when this great and fearful voice was done,</l>
+               <l>An Angel came in glory like the Sun,</l>
+               <l>And the bleſt Martyr from the wheel unbound,</l>
+               <l>And cloſed up again each gaping wound,</l>
+               <l>Reſolidating every broken limb,</l>
+               <l>That not one fraction did appear in him;</l>
+               <l>And reſanated thus by heavenly power,</l>
+               <l>The Saint ſtood ready ſtill to ſuffer more;</l>
+               <pb n="30" facs="tcp:96123:18"/>
+               <l>T' amazed gazers at this ſtrange oſtent,</l>
+               <l>Like marble Statues all ſit conticent;</l>
+               <l>But one of thoſe with whoſe diſtracted ſence</l>
+               <l>This glorious wonder did at laſt diſpence,</l>
+               <l>Went to call back the Emperor again,</l>
+               <l>From ſacrificing to his gods prophane;</l>
+               <l>At whoſe return, ſight of St. <hi>George</hi> reſtor'd</l>
+               <l>To perfect health, like knives his boſom goar'd;</l>
+               <l>His eyes like <hi>bifrons</hi> Janus rouled he,</l>
+               <l>Scarce truſting them in things he loath'd to ſee;</l>
+               <l>But as he fluctuates thus, occaſions fall</l>
+               <l>Of newer griefs to torture him withal;</l>
+               <l>Two reverent Councellors, whoſe white hair'd ſcalps</l>
+               <l>Might vie their candor with the ſnow crown'd Alps,</l>
+               <l>Prudent as thoſe which in <hi>Bomes</hi> Senate ſit,</l>
+               <l>When <hi>Conſtantine</hi> the great firſt Lorded it,</l>
+               <l>Reſolv'd to throw Natures long Leaſes in,</l>
+               <l>And Martyrs crowns with their ſhort lives to win,</l>
+               <l>In the fierce Tyrants preſence did appear,</l>
+               <l>And theſe bold words preſented to his ear:</l>
+               <l>Why doth obdurate <hi>Caeſar</hi> vail his eyes,</l>
+               <l>When gratious Heavens do thus miraculize;</l>
+               <l>Deſiſt great Monarch from your bloody ſpight,</l>
+               <l>You do in vain againſt Chriſt Jeſus fight;</l>
+               <l>For if the Chriſtian Faith tranſgreſs your Laws,</l>
+               <l>Our lives are ready to maintain that Cauſe:</l>
+               <pb n="31" facs="tcp:96123:18"/>
+               <l>Which words from reverence ſpoke, and heavenly grace,</l>
+               <l>Threw ſuch confuſion in the Tyrants face,</l>
+               <l>That this grim Tyrants Diabolick ſtate</l>
+               <l>No <hi>Radamanthus</hi> can equiparate;</l>
+               <l>His mouth a Mortar-piece did beſt reſemble,</l>
+               <l>His words Granadoes-like made all to tremble,</l>
+               <l>And in revenge made his unreverent Grooms</l>
+               <l>Behead thoſe reverent Martyrs without dooms;</l>
+               <l>But loe Gods vineyard with more glory grows,</l>
+               <l>When on her Vines ſome ſtormy tempeſt blows;</l>
+               <l>For as theſe Martyrs paſs'd to joys Divine,</l>
+               <l>Behold another would their number trine;</l>
+               <l>For to the preſence the great Empreſs preſs'd,</l>
+               <l>And with bold zeal the Chriſtian faith confeſt;</l>
+               <l>Which words from her did pierce the Tyrant through</l>
+               <l>Like arrows, ſent from vext <hi>Diana</hi>'s bow;</l>
+               <l>But leſt her words his rage ſhould more inſence,</l>
+               <l>
+                  <hi>Magnentius</hi> did by force convey her thence;</l>
+               <l>Yet though her purpoſe he did thus reſtrain,</l>
+               <l>Her lives bold tender did inroul her Name</l>
+               <l>In Heavens great Regiſter, and was to be</l>
+               <l>Commartyriz'd with St. <hi>George</hi> by Gods decree,</l>
+               <l>Shown by the laſt concluſion of this ſtory,</l>
+               <l>To both their honours and eternal glory;</l>
+               <l>But now the Jaylor and his bloody men,</l>
+               <l>Injayl'd St. <hi>George</hi> within a ſordid Den,</l>
+               <pb n="32" facs="tcp:96123:19"/>
+               <l>The Mort-houſe where grim deaths Artillery lay,</l>
+               <l>Where many groaning ſouls took leave of day;</l>
+               <l>But loe th' effect of <hi>Eſaiahs</hi> Propheſie,</l>
+               <l>Go down into a houſe of earth, ſaid he,</l>
+               <l>And in that ſolitude thou ſhalt have given,</l>
+               <l>Delightful ſoliques from gratious Heaven,</l>
+               <l>For here the Holy Ghoſt on him conferr'd</l>
+               <l>Thoſe comforts are in Princes Courts debar'd.</l>
+            </lg>
+            <lg>
+               <l>But now whilſt <hi>Caeſar</hi> did revolve his brains</l>
+               <l>How to torment St. <hi>George</hi> with deadlier pains,</l>
+               <l>Some Helliſh Salamander did inſpire</l>
+               <l>His hot ubiqueous brain to chuſe the fire,</l>
+               <l>Which like to <hi>Lucifers</hi> juſt agent he</l>
+               <l>Put into practice expeditiouſly,</l>
+               <l>And bid his Grooms ſo great a Lime-pit make</l>
+               <l>As the profundity made all men quake;</l>
+               <l>For like <hi>Joves</hi> oak this flaming element</l>
+               <l>Was both in depth and heigh equivalent;</l>
+               <l>Theſe flames did paſs that <hi>Babylonian</hi> fire,</l>
+               <l>Which forty cubits did in height aſpire,</l>
+               <l>And being proud with too much fuels force,</l>
+               <l>Serove even to ſindge the wings of <hi>Titans</hi> Horſe,</l>
+               <l>That well by juſt reſemblance it might warn,</l>
+               <l>The guilty Tyrant of the deep Avern;</l>
+               <l>And now the <hi>Romans</hi> flock both young and old</l>
+               <l>In numerous crouds this Furnace to behold,</l>
+               <pb n="33" facs="tcp:96123:19"/>
+               <l>That ſcarce the fire which cinderiz'd <hi>Troys</hi> Town,</l>
+               <l>Had more ſpectators then theſe fires of <hi>Rome,</hi>
+               </l>
+               <l>About the which all circularly ſtanding</l>
+               <l>In ſpatious diſtance, <hi>Caeſar</hi> ſo commanding,</l>
+               <l>Behold St. <hi>George,</hi> led with an armed Guard,</l>
+               <l>Came for to ſee what <hi>Caeſar</hi> had prepar'd;</l>
+               <l>A ſpectacle which the ſpectators frighted,</l>
+               <l>Yet this undaunted Champion much delighted;</l>
+               <l>For his undoubted Creed to him did tell,</l>
+               <l>Before Chriſt entred Heaven, he entred Hell;</l>
+               <l>And therefore entering this flaming Pit,</l>
+               <l>Was made more perfect type of Chriſt by it;</l>
+               <l>For the far greater flames of heavenly love</l>
+               <l>Imboſom'd in this Martyr from above,</l>
+               <l>Made theſe exterior flames his eyes delight,</l>
+               <l>As Sun-beams do the frigid <hi>Muſcovite,</hi>
+               </l>
+               <l>That ſcarce his obvious footſteps could refrain</l>
+               <l>From leaping into that voracious flame;</l>
+               <l>Which ſight the Tyrant with ſuch grief poſſeſt,</l>
+               <l>That inward rage made Bon-fires in his breſt,</l>
+               <l>And did exclaim his tardy Grooms, did not</l>
+               <l>The holy Martyr in the furnace put,</l>
+               <l>Which they performing ceaſe not for to throw</l>
+               <l>Huge heaps of Lime-ſtone on the Saint below:</l>
+               <l>O how the conquering Church by this thy flame</l>
+               <l>Moſt ſacred Marty, rwon eternal fame!</l>
+               <pb n="34" facs="tcp:96123:20"/>
+               <l>This fires ſublime and flaming rutilance</l>
+               <l>The Churches glory did as far advance,</l>
+               <l>As where cold ice doth glaze ſalt <hi>Neptunes</hi> breſt,</l>
+               <l>And where hot <hi>Titan</hi> fires the Phenix neſt;</l>
+               <l>And theſe great tortures which St. <hi>George</hi> did take</l>
+               <l>With patience for his dear Redeemers ſake,</l>
+               <l>And theſe ſo great and many wonders he</l>
+               <l>Did in defence of Chriſtianity,</l>
+               <l>Made this Saints life of ſuch a great eſteem</l>
+               <l>With him which wore the triple Diadem,</l>
+               <l>That when our <hi>Engliſh</hi> King did go to <hi>Rome</hi>
+               </l>
+               <l>To viſit him which ſits in <hi>Peters</hi> room,</l>
+               <l>The <hi>Pope</hi> thought then he had no nobler thing</l>
+               <l>For to preſent unto our <hi>Engliſh</hi> King,</l>
+               <l>Then this Saints heart put in a golden Urn,</l>
+               <l>With which his Majeſty did back return;</l>
+               <l>But vexed <hi>Pluto</hi> raging for to ſee</l>
+               <l>This <hi>Engliſh</hi> King's great zeal and piety,</l>
+               <l>With <hi>Aeolus</hi> and <hi>Neptune</hi> both compact</l>
+               <l>To have that Royal Relick-bearer wrackt,</l>
+               <l>And 'twixt theſe two inexorable gods,</l>
+               <l>Did ſpread ſuch malice and pernicious odds,</l>
+               <l>That angry <hi>Aeolus</hi> in deep diſdain</l>
+               <l>Plow'd up the Champion of the Ocean Plain</l>
+               <l>With lofty ridges which did kiſs the skie,</l>
+               <l>And furrows which laid bare the ſcaly fry:</l>
+               <pb n="35" facs="tcp:96123:20"/>
+               <l>In brief, that time the fierce <hi>Leviathan</hi>
+               </l>
+               <l>Turn'd upſide down the boyling Ocean;</l>
+               <l>The Seas and Pilots were at noiſeful ſtrife,</l>
+               <l>And all the Navy quite diſpair'd of life;</l>
+               <l>The pious King to Heaven made his addreſs,</l>
+               <l>And praying to St. <hi>George</hi> for interceſs,</l>
+               <l>Heavens in a moments time did counter-trench</l>
+               <l>The vaſt vaults of the wind Gods flatulence,</l>
+               <l>Who ſwaging his ſwoln cheeks doth but ſuſpire</l>
+               <l>To pacifie <hi>Jehovahs</hi> kindled ire;</l>
+               <l>And <hi>Neptune</hi> diſadvancing triſulk yields</l>
+               <l>To ſmooth the ſurface of his azure fields;</l>
+               <l>Th' amazed Seamen wondring much from whence</l>
+               <l>Proceeded ſuch a ſacred indulgence,</l>
+               <l>Erected all their ſail and joyful paſs</l>
+               <l>To ſee the Sea become their looking-glaſs;</l>
+               <l>The King return'd, for this ſtrange preſervation,</l>
+               <l>Did chuſe St. <hi>George</hi> for Patron of our Nation,</l>
+               <l>And with great reverence kept St. <hi>George</hi> his heart,</l>
+               <l>As <hi>Jews</hi> the rod of <hi>Moſes</hi> in the Ark;</l>
+               <l>But leſt Phanaticks ignorant and bold,</l>
+               <l>Sufflate with malice at my Verſes ſcold,</l>
+               <l>Th' authority of Scripture ſhall decide</l>
+               <l>What ſacred power in Relicks doth abide;</l>
+               <l>Had not the Handkerchief of great St. <hi>Paul</hi>
+               </l>
+               <l>A ſacred power to cure diſeaſes all?</l>
+               <pb n="36" facs="tcp:96123:21"/>
+               <l>Did not St. <hi>Peters</hi> ſhadow do the ſame,</l>
+               <l>And cur'd as many as within it came?</l>
+               <l>And once the <hi>Jernſalemites</hi> did bear</l>
+               <l>A certain dead man to his Sepulcher,</l>
+               <l>Without the Walls the Scouts returning, ſaid,</l>
+               <l>The enemies approach'd, whereat diſmaid,</l>
+               <l>They laid the dead man in a cave of ſtones</l>
+               <l>Upon the Prophet <hi>Eliſeus</hi> bones;</l>
+               <l>And that ſame Scripture clearly doth explain,</l>
+               <l>The Prophets bones rais'd the dead man again,</l>
+               <l>And that ſame dead man did walk back with them</l>
+               <l>As their Sodalie to <hi>Jeruſalem.</hi>
+               </l>
+               <l>But pardon, Reader, my digreſſion here,</l>
+               <l>It was my zeal unto my Patron dear;</l>
+               <l>And now to him I muſt return again,</l>
+               <l>Strongly inclos'd within that ſcorching flame,</l>
+               <l>Wherein remained now this flower of Knights,</l>
+               <l>Till Sun and Moon gave their alternate lights;</l>
+               <l>After which time the Tyrants rage begun</l>
+               <l>To wiſh his lingering Tragedy was done,</l>
+               <l>And willing to be freed from further doubt,</l>
+               <l>Commands his Grooms to ſeek his Relicks out,</l>
+               <l>And to intrench them deeper in the ſtones,</l>
+               <l>That ſo the fire might pulverize his bones;</l>
+               <l>At which command his Grooms did run apace,</l>
+               <l>All interenvious each of others graee,</l>
+               <pb n="37" facs="tcp:96123:21"/>
+               <l>Striving who firſt ſhould lend their grateful breath</l>
+               <l>To tell their great Lord of St. <hi>George</hi> his death,</l>
+               <l>Whilſt <hi>Romans</hi> novelous to know his fate;</l>
+               <l>Theſe bloody Vaſſals all concomitate;</l>
+               <l>But loe theſe ſearchers find this Heaven-dear Knight</l>
+               <l>Safe, and environ'd with ſo great a light,</l>
+               <l>That he might well after his tridian pain;</l>
+               <l>Reſemble Chriſt return'd from Hell again;</l>
+               <l>Whilſt gazing <hi>Romans</hi> his bright glory fear</l>
+               <l>Like <hi>Pilates</hi> watch-men of the Sepulcher;</l>
+               <l>But one of thoſe ſpectators quickly went</l>
+               <l>T' acquaint the Tyrant with this accident;</l>
+               <l>Which news unto inraged Tyrants ear;</l>
+               <l>More obſonant and more confounding were</l>
+               <l>Then <hi>Jeroboams</hi> wives unwelcom breath,</l>
+               <l>Telling the King that God pronounc'd his death;</l>
+               <l>And with a poyſon ſwell'd the Tyrants veins,</l>
+               <l>To ſee the Saint ſcorn his revengeleſs flames;</l>
+               <l>And ſending for St. <hi>George</hi> he thus begins;</l>
+               <l>Vile Wretch, thou ſeeſt what ſtupendious things</l>
+               <l>Our potent gods have ſhown thy worthleſs eyes</l>
+               <l>For to attract thee to their ſacrifice:</l>
+               <l>To whom St. <hi>George</hi> moſt boldly ſaid again,</l>
+               <l>
+                  <hi>Caeſar,</hi> your gods are impotent and vain,</l>
+               <l>And cannot ſave by all their helliſh powers,</l>
+               <l>Themſelves nor others from ſuch fiery ſhowers;</l>
+               <pb n="38" facs="tcp:96123:22"/>
+               <l>But Chriſt that powerful God we Chriſtians ſerve,</l>
+               <l>Can thus his ſervants from theſe flames preſerve:</l>
+               <l>
+                  <hi>George,</hi> ſaid the Tyrant, Chriſt long ſince did die;</l>
+               <l>What power can reſt in ſrail mortality?</l>
+               <l>To whom the valiant Martyr thus reply'd,</l>
+               <l>Thoſe ſacred Writs which tell you Jeſus dy'd,</l>
+               <l>Do tell you he is God and roſe again,</l>
+               <l>And doth in power and glory now remain;</l>
+               <l>Either to all that Scripture credit give,</l>
+               <l>Or all that ſacred Scripture misbelieve:</l>
+               <l>Thus did the clearneſs of the cauſe prevent</l>
+               <l>The wrangling Tyrant of all argument;</l>
+               <l>Yet he in obſtinacy paſſed all</l>
+               <l>Thoſe wilfulmen like wild beaſts, which St. <hi>Paul</hi>
+               </l>
+               <l>Fought with at <hi>Epheſus,</hi> and did ſupply</l>
+               <l>His want of reaſon thus with Tyranny;</l>
+               <l>Here Rack-maſters, put you upon his feet</l>
+               <l>Hot ſhoes of iron which do glow with heat,</l>
+               <l>And then with ſharpeſt and moſt cruel whips,</l>
+               <l>Reduce this frantick Chriſtian to his wits;</l>
+               <l>Which ſaid, thoſe ſlaves diſcharge their vile commiſſion</l>
+               <l>With ſuch abuſive rage and expedition,</l>
+               <l>That if there be but Farriers in Hells forge,</l>
+               <l>Theſe ſure were they ſet ſhoes upon St. <hi>George,</hi>
+               </l>
+               <l>And thoſe Hells <hi>Bedlam</hi> Beadles l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther ſent</l>
+               <l>From <hi>Pluto</hi>'s Bridewel, thus to ſcourge this Saint;</l>
+               <pb n="39" facs="tcp:96123:22"/>
+               <l>For ſuch remorſleſs ſtripes they laid on him;</l>
+               <l>As wholly purpurate his argent skin,</l>
+               <l>And with their whips aſperſion foully ſtain</l>
+               <l>The ruthful gazers ſtanding in each lane;</l>
+               <l>Yet all theſe ſtrokes of their revengeful ire,</l>
+               <l>Like ſteels upon this flint of faith ſtruck fire;</l>
+               <l>Which did his ſacred zeal ſo much inflame</l>
+               <l>To ſhed his blood for Jeſus Chriſt his Name,</l>
+               <l>That ſcarce that Unction pour'd on <hi>Saul</hi> his head,</l>
+               <l>Which regified the perſon where it ſpread,</l>
+               <l>Pleas'd him as pleas'd St. <hi>George</hi> the pouring down</l>
+               <l>Of this red Unction of the Martyrs crown;</l>
+               <l>But now St. <hi>George</hi> whipt to the priſon door,</l>
+               <l>The rigid Jaylor executes his power,</l>
+               <l>And in a tenebrous and ſquallid grate</l>
+               <l>The Pearl of Chriſtians doth incarcerate;</l>
+               <l>Yet in that loathſom dormitory he</l>
+               <l>Pernoctates with a great jucundity,</l>
+               <l>And there like wakeful <hi>Philomel</hi> he ſing;</l>
+               <l>To Jeſus Chriſt moſt ſacred lauds and hymns;</l>
+               <l>For he was muſicks genius, though till now</l>
+               <l>My omiſſive Muſe did not his talent ſhow,</l>
+               <l>And ſung ſuch dulcid ſtrains as might conſort</l>
+               <l>With thoſe ſweet quires of the celeſtial Court,</l>
+               <l>Or with that Song the bleſſed Virgin ſung</l>
+               <l>At th' incarnation of her glorious Son;</l>
+               <pb n="40" facs="tcp:96123:23"/>
+               <l>And thus he ſung till <hi>Titans</hi> riſing beams</l>
+               <l>Strove to commerce with his celeſtial hymns;</l>
+               <l>But ſpare thy light great <hi>Titan;</hi> he which gave</l>
+               <l>That light to thee, infuſeth in this cave</l>
+               <l>A glory which as far ſurpaſſeth thee</l>
+               <l>As thou a taper in reſplendency;</l>
+               <l>Salute the Tyrant, who expects thy glory</l>
+               <l>To give the ſummons to his Conſiſtory;</l>
+               <l>For many hours ago he left his reſt,</l>
+               <l>Revolving how he might St. <hi>George</hi> infeſt,</l>
+               <l>And now ſets forward to his Council ward,</l>
+               <l>Circumplicate with his gygantick Guard,</l>
+               <l>Of which he did diſmiſs ſome Halberdeers</l>
+               <l>To bring St. <hi>George</hi> before his Lords and Peeres;</l>
+               <l>But when this Saint the Council-houſe did enter,</l>
+               <l>His preſence bred amazement through that center,</l>
+               <l>And with a kind of raviſhment their ſight</l>
+               <l>Was wholly fixed on this glorious Knight,</l>
+               <l>And his bold beauteous preſence they admire,</l>
+               <l>After the ſuffering of ſuch whips and fire;</l>
+               <l>But <hi>Caeſar</hi> looks upon his beauteous ſtate</l>
+               <l>Through ſpectacles of more indignant hate</l>
+               <l>Then that fierce ſtep-dame <hi>Juno</hi> did her ſon</l>
+               <l>Great <hi>Hercules,</hi> after his labours done;</l>
+               <l>And well in ſome reſpect that <hi>Grecians</hi> ſtory</l>
+               <l>Doth here configurate our Martyrs glory;</l>
+               <pb n="41" facs="tcp:96123:23"/>
+               <l>For more they ſtrive his perſon to confound,</l>
+               <l>With health and beauty doth it more abound;</l>
+               <l>Which <hi>Caeſar</hi> noting chang'd his ſtormy guize,</l>
+               <l>And like a ſerpent thus did ſubtilize,</l>
+               <l>Ceaſe <hi>George</hi> at laſt the Crucifi'd to follow,</l>
+               <l>Become th' adorant of our great <hi>Apollo,</hi>
+               </l>
+               <l>And reaſſume thy place and former ſtate,</l>
+               <l>And all our <hi>quondam</hi> love redintigrate.</l>
+               <l>Great Prince, ſaid he, your love condition'd ſo,</l>
+               <l>Though much I prize it, I muſt needs forgo,</l>
+               <l>And much I muſe ſuch wonders ſhown your eyes,</l>
+               <l>You monitate ſuch groſs inſanities;</l>
+               <l>What man can ſo infatuated be,</l>
+               <l>Not to diſcern your vain idolatry,</l>
+               <l>How that <hi>Apollo</hi> which you call Divine,</l>
+               <l>Is but a Devil, doth in that ſtock inſhrine?</l>
+               <l>Rather your ſelf, great <hi>Caeſar,</hi> him adore,</l>
+               <l>Whoſe all compriſing uncompriſed power</l>
+               <l>Doth bind thoſe Devils which you call gods in chains,</l>
+               <l>Tormenting them with great and dateleſs pains;</l>
+               <l>Which words the bloody Tyrants boſom gore,</l>
+               <l>As Hunters darts the vineyard ſpoyling Bore,</l>
+               <l>That he was ready to forſake his Throne,</l>
+               <l>Amongſt his torturing Vaſſals to make one;</l>
+               <l>But low a ſower-fac'd Groom whoſe countenance grim,</l>
+               <l>Shew'd all the Dog-ſtars had conſtel'd in him,</l>
+               <pb n="42" facs="tcp:96123:24"/>
+               <l>Born under <hi>
+                     <g ref="char:V">Ʋ</g>rſa major,</hi> which baſe ſign</l>
+               <l>Did his baſe nature unto blood incline,</l>
+               <l>Intrudes himſelf, and ſmote the Martyrs face,</l>
+               <l>To bring himſelf ſo into <hi>Caeſars</hi> grace;</l>
+               <l>But yet this ſlave the baſſage of mankind,</l>
+               <l>Nothing at all had <hi>Caeſars</hi> wrath declind;</l>
+               <l>This poor revengement far too ſhort did fall</l>
+               <l>T' appeaſe a rage ſo rank and radical;</l>
+               <l>He made his flaves ſcourge him with leathern thongs,</l>
+               <l>Till they delacerate the fleſh from bones;</l>
+               <l>So that th' excoriated Martyr ſtood</l>
+               <l>Like one anatomiz'd, imbru'd with blood;</l>
+               <l>Or, as if great St. <hi>Bartholomew</hi> new ſlain</l>
+               <l>In his carnation hew appear'd to them;</l>
+               <l>Yet without all complaint or ſervile fear,</l>
+               <l>St. <hi>George</hi> doth all thoſe cruel torments bear;</l>
+               <l>Nor once his eyes ſerenity doth cloud</l>
+               <l>With any frown or ſupercilious ſhrowd;</l>
+               <l>But the fierce Tyrant looked grim and skowling,</l>
+               <l>As <hi>Cerb'rus</hi> when he frights the Ghoſts with howling;</l>
+               <l>Whereat the ſilent gazers ſit a ſpace,</l>
+               <l>Like Planet-ſtruck at this ſtupendious caſe;</l>
+               <l>But <hi>Caeſar</hi> then for a Magician ſent,</l>
+               <l>Who promiſed the Tyrant to invent</l>
+               <l>A drench which ſhould conclude his life with groans,</l>
+               <l>And deadly tortures both of fleſh and bones;</l>
+               <pb n="43" facs="tcp:96123:24"/>
+               <l>Which Potion quickly they to him did give,</l>
+               <l>But in deſpight of it the Saint did live;</l>
+               <l>Then the Magician ſaid, that God above</l>
+               <l>Sure gives thee great endearments of his love,</l>
+               <l>Or how could thy frail fleſh have undergon</l>
+               <l>Such tortures as confound the lookers on?</l>
+               <l>If Chriſt be God, as thou doſt ſay indeed,</l>
+               <l>Do ſome great wonder to gain general creed;</l>
+               <l>Call from the earth ſome dead man up again,</l>
+               <l>And give him life and form in Jeſus Name,</l>
+               <l>And we will all with unanimity</l>
+               <l>Confeſs there is no other God but he;</l>
+               <l>To whom the glorious Martyr ſaid again,</l>
+               <l>You bloody favourites of <hi>Caeſars</hi> train</l>
+               <l>Which have Tragedians been ſo many times,</l>
+               <l>Conſcelerated in his ſanguine crimes,</l>
+               <l>Would not believe, although the duſty dead</l>
+               <l>Should give you warning of your deep miſdeed;</l>
+               <l>The various wonders God hath ſhown your eyes,</l>
+               <l>Had turned <hi>Pharoah</hi> to repentant cryes,</l>
+               <l>Yet hoping ſome who conſcious in th' offence</l>
+               <l>Of ignorance, and not malevolence,</l>
+               <l>May by the deads reſuſcitation ſee</l>
+               <l>That Chriſt alone is the true Deity;</l>
+               <l>I hope I ſhall that favour impetrate</l>
+               <l>T' inveſt the duſty dead with vital ſhape:</l>
+               <pb n="44" facs="tcp:96123:25"/>
+               <l>Which ſaid, he humbly proſtrates on the ground,</l>
+               <l>Praying to Chriſt with piety profound,</l>
+               <l>Till trembling <hi>Tellus</hi> did begin to gape,</l>
+               <l>As if ſhe would her ſelf deviſcerate,</l>
+               <l>Whilſt from her jaws St. <hi>George</hi> a man did call,</l>
+               <l>Whoſe lively form did perſonate King <hi>Saul;</hi>
+               </l>
+               <l>At which prodigious ſight the <hi>Roman</hi> crouds</l>
+               <l>Extoll'd the power of Jeſus to the clouds,</l>
+               <l>And with opprobrious words did ſignifie</l>
+               <l>Their great contempt of all idolatry;</l>
+               <l>But hear my Muſe engage thy faculties</l>
+               <l>The Tyrants fury to characterize,</l>
+               <l>That black Lord of th'infernal ſulpherous flames,</l>
+               <l>When <hi>Hercules</hi> knock'd out his Porters brains,</l>
+               <l>Was but his type, nor greater rage did throw</l>
+               <l>Upon Gods Saints, then did this Tyrant do;</l>
+               <l>Their mutual malice and inveterate hate,</l>
+               <l>
+                  <hi>Caeſar</hi> and Satan both concatenate;</l>
+               <l>Such friends as <hi>Pilate</hi> and falſe <hi>Herod</hi> were</l>
+               <l>Againſt the Lord of life when he liv'd here;</l>
+               <l>So that in deeds and tortures it is clear,</l>
+               <l>
+                  <hi>Caeſar</hi> and Satan both confatal were,</l>
+               <l>And both alike did brook thoſe joyful cryes</l>
+               <l>As ſhow'd by rageful rabuloſities,</l>
+               <l>Which were ſo obſonant to every ear,</l>
+               <l>That never Chriſtian like to them did hear;</l>
+               <pb n="45" facs="tcp:96123:25"/>
+               <l>Blaſphemous <hi>Julian</hi> and that <hi>Philiſtine</hi>
+               </l>
+               <l>Which was corrected by King <hi>Davids</hi> fling,</l>
+               <l>And thoſe great builders of old <hi>Babels</hi> Tower,</l>
+               <l>Which breath'd defiance againſt th'Almighties power,</l>
+               <l>Might plead their blaſphemies but venial ſin,</l>
+               <l>Had they compai'd with <hi>Dioeleſian</hi> been;</l>
+               <l>But when his tongues fellifluence had ſpent</l>
+               <l>What Satan his Dictator could invent,</l>
+               <l>Loathing St. <hi>George</hi> his preſence, he commands</l>
+               <l>His Grooms to whip him with impetuous hands,</l>
+               <l>Unto a Dungeon which grim <hi>Pluto</hi> might</l>
+               <l>For depth and horror challenge for his right,</l>
+               <l>Or elſe the Cloſet which he did aſſign</l>
+               <l>Unto his Dam the ſnakie Proſerpine;</l>
+               <l>But loe th' effect of <hi>Davids</hi> Propheſie,</l>
+               <l>That earths Abiſms ſhould Jeſus glorifie;</l>
+               <l>For hither crouds of Convertites reſort,</l>
+               <l>Drawn by his famous miracles report,</l>
+               <l>Which by St. <hi>George</hi> his preaching unto them</l>
+               <l>By multitudes converted ſouls became,</l>
+               <l>'Mongſt whom was one <hi>Glicerius</hi> dull and rude,</l>
+               <l>But compleat in the gift of fortitude;</l>
+               <l>Whilſt this Georgick Groom purſued his toyl,</l>
+               <l>His Ox fell dead in plowing of the ſoyl,</l>
+               <l>Which loſs did much depauperate the Swain,</l>
+               <l>Becauſe his tillage did his Houſe maintain;</l>
+               <pb n="46" facs="tcp:96123:26"/>
+               <l>Wherefore in haſte he to the Martyr went</l>
+               <l>With earneſt ſute, but little complement,</l>
+               <l>And pray'd him of his charity redreſs,</l>
+               <l>His grievous chance and indigent diſtreſs;</l>
+               <l>St. <hi>George</hi> the loſs commiſerating much,</l>
+               <l>Which did this rural ſwain ſo nearly touch,</l>
+               <l>And well diſcerning the great confidence</l>
+               <l>Which he repos'd in Chriſts Omnipotence,</l>
+               <l>Said, <hi>Glicery,</hi> believe in Jeſus Name,</l>
+               <l>And be aſſur'd thy Ox ſhall live again;</l>
+               <l>The man return'd and finding him alive,</l>
+               <l>Continual thanks did unto Jeſus give,</l>
+               <l>Who uſeth much his ſervants to convert</l>
+               <l>By miracles conſorting to their Art;</l>
+               <l>The draught of fiſh Chriſt bid St. <hi>Peter</hi> draw,</l>
+               <l>Confirm'd that Fiſher-man in Chriſtian Law;</l>
+               <l>When priſon doors unlock'd themſelves to <hi>Paul,</hi>
+               </l>
+               <l>Converted Jaylors at his feet did fall;</l>
+               <l>And now this Ox rais'd by Chriſts power again,</l>
+               <l>Made the bold Plow-man to confeſs Chriſts Name,</l>
+               <l>For which through <hi>Caeſars</hi> cruelties he try'd</l>
+               <l>A world of tortures, and with honour dy'd;</l>
+               <l>Loe not the Heralds book, Heavens Regiſters</l>
+               <l>Should guide the Writers of mens characters;</l>
+               <l>For here you ſee this Groom with life's expence</l>
+               <l>Nobly maintain'd the Churches eminence,</l>
+               <pb n="47" facs="tcp:96123:26"/>
+               <l>Whilſt there ſtood by him many a Lord and Peer,</l>
+               <l>Who durſt not Chriſt confeſs through ſlaviſh fear:</l>
+               <l>But now I leave this bleſſed Convertite,</l>
+               <l>And of St. <hi>George</hi> his great Converter write,</l>
+               <l>Who faſt inclos'd in his dark Conditory,</l>
+               <l>Was ſought out by the King of endleſs glory,</l>
+               <l>Who with his preſence made that den of night</l>
+               <l>Competitor with heaven it ſelf for light;</l>
+               <l>O wondrous thing that mortal man can move</l>
+               <l>The great Almighty thus to Court his love,</l>
+               <l>And like <hi>Pigmalion,</hi> but with ſacred flame,</l>
+               <l>To fall in love with what his hands did frame!</l>
+               <l>Surely the Angels, were they not Divine,</l>
+               <l>Might at theſe graces to St. <hi>George</hi> repine,</l>
+               <l>That none of them might this embaſſage bring,</l>
+               <l>Or internunciate 'twixt their Lord and him,</l>
+               <l>But that himſelf muſt thus come viſit men,</l>
+               <l>Both in the High-ways and in dirty den,</l>
+               <l>As witneſs both St. <hi>Paul,</hi> this Martyr here,</l>
+               <l>And many moe to whom he did appear;</l>
+               <l>But Jeſus now to make his love more known,</l>
+               <l>Set on St. <hi>George</hi> his head a glorious Crown,</l>
+               <l>And thus pours out his moſt immenſe affection,</l>
+               <l>Be conſtant <hi>George</hi> I will be thy protection;</l>
+               <l>Loſe not the glorious place prepar'd for thee,</l>
+               <l>With tortures, terror or timidity.</l>
+            </lg>
+            <pb n="48" facs="tcp:96123:27"/>
+            <lg>
+               <l>To whom the proſtrate Martyr thus replies,</l>
+               <l>My ſoul abhorreth ſuch Apoſtacies;</l>
+               <l>I am reſolv'd t' obtain the Martyrs crown,</l>
+               <l>Were it to ſuffer till the day of Doom;</l>
+               <l>But Lord, my frailty is well known to thee,</l>
+               <l>Support ſweet Jeſus my proclivity;</l>
+               <l>Thus Chriſt his Saint left in that nightful place,</l>
+               <l>But all illuminate with heavenly grace.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Caeſars</hi> grief ſticks to him more and more,</l>
+               <l>Like to the burning ſhirt <hi>Alcides</hi> wore,</l>
+               <l>Vexing to ſee the Saint his malice ſcorns,</l>
+               <l>As Hunters <hi>Acteons</hi> long revengeleſs horns,</l>
+               <l>And ſtill his griefs do ſtick unto his heart,</l>
+               <l>Until he can the glorious Saint pervert,</l>
+               <l>Which to effect he now puts confidence</l>
+               <l>In gratious uſage and blandiloquence;</l>
+               <l>No hour doth paſs, but <hi>Caeſar</hi> to him ſends</l>
+               <l>Great viſitants to tender his commends;</l>
+               <l>No more do his contracted brows look grim,</l>
+               <l>But gratious countenance reflect on him;</l>
+               <l>Now he commends unto the Jaylors care,</l>
+               <l>To ſerve the Saint with all delicious fare,</l>
+               <l>And to omit no diligence therein,</l>
+               <l>To notifie his change of love to him;</l>
+               <l>All which being done, <hi>Caeſar</hi> in Council-Hall,</l>
+               <l>Inthron'd amongſt his Lords and Princes all,</l>
+               <pb n="49" facs="tcp:96123:27"/>
+               <l>Sent for St. <hi>George,</hi> and gracing him far more</l>
+               <l>With all reſpects of honour then before,</l>
+               <l>Beſpoke him thus; <hi>George,</hi> thy undaunted ſpirit</l>
+               <l>Hath gain'd ſo great opinion of thy merit,</l>
+               <l>That if thou wouldſt a little condeſcend,</l>
+               <l>Thou ſhouldſt be <hi>Caeſars</hi> chief and only friend,</l>
+               <l>And all thoſe honours thou poſſeſt of late,</l>
+               <l>Our bounteous love to thee ſhall triplicate;</l>
+               <l>Be prudent then, it reſts now at thy pleaſure</l>
+               <l>To be an abject or a ſecond <hi>Caeſar:</hi>
+               </l>
+               <l>But hereby well the Martyr underſtands</l>
+               <l>This <hi>Syrens</hi> ſong did bode ſome wrackful ſands,</l>
+               <l>Which to prevent, in blandant manner thus</l>
+               <l>He keeps a project ſtill ſubnubilous;</l>
+               <l>Come gratious Monarch, let us go to ſee</l>
+               <l>That ſumptuous Temple of your Deity;</l>
+               <l>Which plauſive motion ſo did <hi>Caeſar</hi> win,</l>
+               <l>That with embraces he emboſom'd him,</l>
+               <l>And made it by his Bell-men to be cry'd,</l>
+               <l>
+                  <hi>Apollo,</hi> conqueror of the crucifi'd;</l>
+               <l>And gave command that all his noble train</l>
+               <l>Should to <hi>Apollo</hi>'s Temple wait on them,</l>
+               <l>So that there came a greater multitude,</l>
+               <l>Then all that ſpatious Temple could include;</l>
+               <l>Th' officious Prieſts made punctual preparation</l>
+               <l>For all things did belong to their Oblation,</l>
+               <pb n="50" facs="tcp:96123:28"/>
+               <l>And nothing wanted now they could deſire,</l>
+               <l>Except St. <hi>George</hi> to give th'Oblation fire,</l>
+               <l>And his approach their wiſhes obviates,</l>
+               <l>For loe he entred the great Temple gates,</l>
+               <l>Attended with moe eyes which came to ſee,</l>
+               <l>Then witneſſed great <hi>Sampſons</hi> Tragedy;</l>
+               <l>And ſilence call'd, thus Heavens Commiſſioner</l>
+               <l>Interrogates the inſtatued <hi>Lucifer.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Apollo,</hi> I command thee let us know</l>
+               <l>If thou be that great God to whom we owe</l>
+               <l>Honour Divine and daily Sacrifice;</l>
+               <l>Be brief and ſpeak, delude us not with lyes.</l>
+            </lg>
+            <lg>
+               <l>I muſt confeſs, the conſcious Fiend reply'd,</l>
+               <l>There doth no power Divine in me abide;</l>
+               <l>I am of thoſe damn'd Legions which were driven</l>
+               <l>By great St. <hi>Michael,</hi> from the gates of Heaven,</l>
+               <l>And we ſince then ſtrive through inveterate pride</l>
+               <l>Amongſt the ſimple to be Deifi'd;</l>
+               <l>To whom the Martyr thus reply'd again,</l>
+               <l>I charge thee Sataniſt here to explain,</l>
+               <l>Who is that mighty God whoſe dreadful power</l>
+               <l>We juſtly ought to honour and adore;</l>
+               <l>Chriſt Jeſus is true God, the Fiend reply'd,</l>
+               <l>And theirs no other God indeed beſide;</l>
+               <l>St. <hi>George</hi> ſaid then, how Rebel to my God</l>
+               <l>Durſt thou near me his ſervant make abode?</l>
+               <pb n="51" facs="tcp:96123:28"/>
+               <l>Which powerful words did with more terror ſound</l>
+               <l>Then <hi>Joſua</hi>'s trumpets did, which threw to ground</l>
+               <l>The Walls of <hi>Jerico;</hi> for loe the Temple</l>
+               <l>From the foundation gan to ſhake and tremble,</l>
+               <l>Wherewith the Idol in ſmall parcels fell,</l>
+               <l>And with ſtrange noiſe the Fiend departs to Hell;</l>
+               <l>Th' amazed <hi>Romans</hi> at this accident</l>
+               <l>Were ſuddenly involv'd with wonderment,</l>
+               <l>And then with cloud delacerating cryes,</l>
+               <l>Bleſs'd Jeſus Chriſt which open'd their blind eyes;</l>
+               <l>But who can pen thoſe plenary delights</l>
+               <l>Which did poſſeſs thoſe <hi>Roman</hi> Convertites!</l>
+               <l>Come Muſe thou muſt thy faculties advance,</l>
+               <l>And figurate them with all exuberance;</l>
+               <l>On that bleſt <hi>Friday,</hi> when <hi>Jehovahs</hi> Son</l>
+               <l>Perform'd the work of our Redemption!</l>
+               <l>He did deſcend and opened <hi>Limbus</hi> gate,</l>
+               <l>And thoſe impriſon'd ſouls diſcarcerate;</l>
+               <l>What joy did that great Goal-delivery bring,</l>
+               <l>When Chriſt had cancelled our bond of ſin!</l>
+            </lg>
+            <lg>
+               <l>But to declare the great and fluctuous ſtrife</l>
+               <l>Of <hi>Caeſars</hi> breſt, no Muſe can pen to life;</l>
+               <l>He was more pinch'd and frighted with thoſe cryes,</l>
+               <l>Then <hi>Acteon</hi> with his hounds and horned guiſe;</l>
+               <l>His words were all with ſparks of fire repleat,</l>
+               <l>Hotter then <hi>Vulcan</hi> from his forges beat;</l>
+               <pb n="52" facs="tcp:96123:29"/>
+               <l>His oblique eyes did blaze with flaming fire,</l>
+               <l>And bliſtred where they look'd with rageful ire;</l>
+               <l>Such was the Tyrants grief, ſuch joy abounded</l>
+               <l>With <hi>Romans,</hi> when <hi>Apollo</hi> was confounded.</l>
+            </lg>
+            <lg>
+               <l>But in this Jubile the barbarous Guard</l>
+               <l>Commits the Martyr to his former Ward,</l>
+               <l>Where all <hi>Apollo</hi>'s Prieſts and raskal ſlaves</l>
+               <l>Diſcharge on him their hate with whips and ſtaves;</l>
+               <l>But <hi>Caeſar</hi> after all theſe wonders ſtill</l>
+               <l>Stood individually compact with Hell,</l>
+               <l>And ſhared both in ſorrow and confuſion</l>
+               <l>With this Averniſt in his juſt excluſion,</l>
+               <l>And for his abſence fiercely rageth ſtill,</l>
+               <l>Like <hi>furens Hercules</hi> on <hi>Aetna</hi>'s Hill;</l>
+               <l>But at the laſt <hi>Apollo</hi>'s deep diſgrace</l>
+               <l>Made the confounded Tyrant leave that place,</l>
+               <l>And overwhelmed with ſad diſcontent,</l>
+               <l>Unto the Palace from the Temple went,</l>
+               <l>Where his obſequious Lords their chief ſurround,</l>
+               <l>But could not balſomate his gangrend wound;</l>
+               <l>For as the wounded Whale forſakes the brine,</l>
+               <l>And to the fatal ſhore doth draw a line,</l>
+               <l>That <hi>Engliſh</hi> Fiſhers do find out his gate,</l>
+               <l>And with their Guns his wounds multiplicate;</l>
+               <l>So <hi>Caeſar</hi> fared; but why give I that name</l>
+               <l>To him that was but Satans counter-pane?</l>
+               <pb n="53" facs="tcp:96123:29"/>
+               <l>Their comfort he declines, reſolv'd to follow</l>
+               <l>No counſel but of his old damnd <hi>Apollo;</hi>
+               </l>
+               <l>Who both confounded ſtand with grief and ſhame,</l>
+               <l>Like <hi>Bajazet</hi> led in his iron chain,</l>
+               <l>To have his ſhoulders made a footſtool on</l>
+               <l>For <hi>Tamberlane</hi> to mount his horſe upon;</l>
+               <l>And both ſufflate with malice there did ſtand,</l>
+               <l>For to behold <hi>Jehovahs</hi> gratious hand</l>
+               <l>Work ſuch great wonders for the Martyrs ſake,</l>
+               <l>In all the ſufferings he did undertake;</l>
+               <l>What rage and malice did thoſe Vaſſals ſmother,</l>
+               <l>And with what oblique eyes view'd they each other!</l>
+               <l>O that ſome curious Limner of our age</l>
+               <l>Could purtrait them in this ſame very page,</l>
+               <l>To pleaſe the <hi>Engliſh</hi> Reader of this ſtory,</l>
+               <l>With <hi>Caeſars</hi> ſhame and their great Patrons glory!</l>
+               <l>But ſome which knew the nature of his ſore</l>
+               <l>Was like to theirs <hi>Achilles</hi> Lance did gore,</l>
+               <l>To cure the ſame and pleaſe the Tyrants mood,</l>
+               <l>Preſent the Martyr all begoar'd with blood;</l>
+               <l>But to excruciate that prophane delight</l>
+               <l>This ſanguinary Wolf took in this ſight,</l>
+               <l>Behold the Empreſs <hi>Alexandra</hi> came,</l>
+               <l>And boldly did confeſs Chriſt Jeſus Name,</l>
+               <l>Intreating of St. <hi>George</hi> his prayers that ſhe</l>
+               <l>Might in the Chriſtian faith perſeverant be,</l>
+               <pb n="54" facs="tcp:96123:30"/>
+               <l>And with her tears his bloody feet did bath,</l>
+               <l>Kiſſing the wounds he ſuffered for his Faith;</l>
+               <l>Which did the hateful Tyrant ſo incenſe,</l>
+               <l>He made <hi>Orlando</hi>'s rage tame patience,</l>
+               <l>And ſuch flagitious blaſphemies did ſpue,</l>
+               <l>As ſainted that foul Monſter <hi>David</hi> ſlew,</l>
+               <l>And even with <hi>Lucifer</hi> might juſtly vie</l>
+               <l>Facinorous guilt for Hells ſupremacy.</l>
+            </lg>
+            <lg>
+               <l>But when this earths great <hi>Lucifer</hi> at laſt</l>
+               <l>Had his defiance againſt Jeſus caſt,</l>
+               <l>Thus he the remnant of his Helliſh hate</l>
+               <l>Againſt the Empreſs doth evaporate;</l>
+               <l>Why do not tardy Devils this ſtrumpet bear</l>
+               <l>To th' under <hi>Bridewel,</hi> which diſturbs us here,</l>
+               <l>And in our preſence in deſpight of us,</l>
+               <l>Doth here become ſo meretricious,</l>
+               <l>That with her tears and kiſſes ſhe doth crouch</l>
+               <l>To this Inchanter, whom we hate ſo much?</l>
+               <l>O vultuous impudence, ſpectators ſay,</l>
+               <l>Is ſhe a Woman, or ſome <hi>Succuba?</hi>
+               </l>
+               <l>But ſhe no reſponſory word at all</l>
+               <l>Daign'd thoſe invectives Diabolical,</l>
+               <l>But proſtrate ſtill implores the aid Divine,</l>
+               <l>That ſhe may never from her faith decline;</l>
+               <l>But this great zeal which did her ſoul inſpire,</l>
+               <l>With vilependence of the Tyrants ire,</l>
+               <pb n="55" facs="tcp:96123:30"/>
+               <l>Put his blood-thirſty heart unto more pain,</l>
+               <l>Then if ſome greedy Vulture graſp'd the ſame.</l>
+            </lg>
+            <lg>
+               <l>But as ſome glutton which through ſurfeit ſore</l>
+               <l>Abhors thoſe delicates he lik'd before,</l>
+               <l>
+                  <hi>Caeſar</hi> through thoſe affronts he had of late,</l>
+               <l>The Martyrs preſence did moſt deadly hate,</l>
+               <l>And gladly now would free himſelf of them,</l>
+               <l>That ſo oblivion might decreaſe his pain;</l>
+               <l>Wherefore in haſte his bloody Grooms he calls,</l>
+               <l>And bids them lead the Saints without the Walls,</l>
+               <l>And cutting off their heads, their bodies throw</l>
+               <l>Into the ditches, food for Kite and Crow;</l>
+               <l>In which imployment every Vaſſal tryes</l>
+               <l>Who ſhould exceed in their immanities,</l>
+               <l>Cutting with corded gives their tender veins,</l>
+               <l>That bloods effuſion might augment their pains;</l>
+               <l>And as they led them to th' appointed place,</l>
+               <l>Thoſe hateful Vaſſals ply'd their whips apace,</l>
+               <l>Until the bloody ſhowrs their bodies ran</l>
+               <l>The duſty wayes with ſanguine tincture ſtain;</l>
+               <l>Which dear expence of blood and tedious gate,</l>
+               <l>This Royal Empreſs did debilitate,</l>
+               <l>And her own weight her bloodleſs limbs oppreſt;</l>
+               <l>Enforcing her upon her knees to reſt,</l>
+               <l>And as a Roſe o're-ſway'd with ſhowers of rain,</l>
+               <l>Do's hang its ſweet top to the graſſy Plain,</l>
+               <pb n="56" facs="tcp:96123:31"/>
+               <l>This languid Lady doth her face Divine</l>
+               <l>Surcharg'd with bleeding to the ground decline,</l>
+               <l>And with her proſtrate prayers her ſoul expires,</l>
+               <l>Receiv'd by Angels to celeſtial quires;</l>
+               <l>By whoſe departure now remained free</l>
+               <l>St. <hi>George</hi> from all his great anxiety,</l>
+               <l>Her ſouls ſecurity by loſs of breath,</l>
+               <l>Doth now ſo much facilitate his death,</l>
+               <l>That pardon'd wretches from the Jaylors room</l>
+               <l>Went with leſs joy then he to Marty rdom,</l>
+               <l>Where his beheading ſtroke at laſt was given,</l>
+               <l>Whilſt Angels Plaudits in the Court of Heaven</l>
+               <l>Conducted his great ſpirit unto reſt,</l>
+               <l>Under Heavens glorious Altar ever bleſt,</l>
+               <l>'Mongſt thoſe great Conquerors in the Martyrs Wars,</l>
+               <l>Whoſe crowns are Sun beams, and their foot-ſtool Stars.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books ſold by <hi>William Crook,</hi> at the three Bibles on <hi>Ludgate-Hill,</hi> near <hi>Fleet-bridge.</hi>
+            </head>
+            <p>THe Pillar of Gratitude, by Dr. <hi>Gauden.</hi>
+            </p>
+            <p>Two Sermons preached at the Temple, by Dr. <hi>Gauden.</hi>
+            </p>
+            <p>
+               <hi>Plain Mathematician,</hi> being an Explanation of the hardeſt Pro<g ref="char:EOLhyphen"/>blems in Geometry, making eaſie Geometrical Arithmetick, Meuſu<g ref="char:EOLhyphen"/>ſuration; Dyalling, &amp;c. and other difficulties of Geometry, by <hi>Th. G.</hi>
+            </p>
+            <p>
+               <hi>Sin Diſmantled,</hi> ſhowing the loathſomneſs thereof, in laying it open by Confeſſion, with the remedy for it by Repentance and Converſion; wherein is ſet forth the manner how we ought to confeſs our ſins to God and Man, with the Conſiliary Decrees from the Authority thereof, and for the ſhewing the neceſſity of Prieſtly Abſolution, removing the diſeſteem the vulgar have of Abſolution, ſetting forth the power of Miniſters, &amp;c.</p>
+            <pb facs="tcp:96123:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
